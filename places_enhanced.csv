@@ -1,0 +1,142 @@
+DESTINATION,Place of Interest,Distance (km),Best Time to Visit,How to Reach,Description
+Agra,Taj Mahal,21,Monsoon,By Boat,A must-visit destination with unique attractions.
+Agra,Agra Fort,6,Autumn,Cable Car,A historical fort offering insights into past architecture.
+Agra,Mehtab Bagh,12,Monsoon,By Air,A must-visit destination with unique attractions.
+Ahmedabad,Sabarmati Ashram,23,Autumn,By Road,A must-visit destination with unique attractions.
+Ahmedabad,Kankaria Lake,38,Winter,By Train,"A scenic lake, great for boating and photography."
+Ahmedabad,Adalaj Stepwell,33,Spring,By Air,A must-visit destination with unique attractions.
+Alleppey,Alleppey Backwaters,3,Monsoon,By Boat,A must-visit destination with unique attractions.
+Alleppey,Alappuzha Beach,13,Summer,By Air,A relaxing beach with golden sands and gentle waves.
+Alleppey,Krishnapuram Palace,36,Spring,Cable Car,A royal palace reflecting rich heritage and art.
+Amritsar,Golden Temple,6,Winter,By Air,A famous and spiritual temple known for religious significance.
+Amritsar,Jallianwala Bagh,25,Spring,By Train,A must-visit destination with unique attractions.
+Amritsar,Wagah Border,3,Autumn,By Road,A must-visit destination with unique attractions.
+Bangalore,Lalbagh Botanical Garden,38,Monsoon,By Road,A beautifully maintained garden with exotic plants.
+Bangalore,Bangalore Palace,25,Winter,By Air,A royal palace reflecting rich heritage and art.
+Bangalore,Cubbon Park,3,Monsoon,Cable Car,A recreational park ideal for family and kids.
+Bhopal,Upper Lake,38,Winter,By Road,"A scenic lake, great for boating and photography."
+Bhopal,Bharat Bhavan,25,Autumn,By Boat,A must-visit destination with unique attractions.
+Bhopal,Taj-ul-Masajid,30,Summer,By Air,A must-visit destination with unique attractions.
+Bhubaneswar,Lingaraj Temple,2,Monsoon,Cable Car,A famous and spiritual temple known for religious significance.
+Bhubaneswar,Udayagiri and Khandagiri Caves,12,Autumn,Cable Car,An ancient cave site with archaeological significance.
+Bhubaneswar,Nandankanan Zoo,24,Monsoon,By Road,A must-visit destination with unique attractions.
+Chandigarh,Rock Garden,13,Autumn,By Air,A beautifully maintained garden with exotic plants.
+Chandigarh,Sukhna Lake,19,Autumn,Cable Car,"A scenic lake, great for boating and photography."
+Chandigarh,Rose Garden,7,Autumn,By Train,A beautifully maintained garden with exotic plants.
+Chennai,Marina Beach,15,Spring,By Air,A relaxing beach with golden sands and gentle waves.
+Chennai,Fort St. George,2,Spring,By Air,A historical fort offering insights into past architecture.
+Chennai,Kapaleeshwarar Temple,10,Autumn,By Train,A famous and spiritual temple known for religious significance.
+Coimbatore,Marudamalai Temple,17,Summer,By Road,A famous and spiritual temple known for religious significance.
+Coimbatore,Isha Yoga Center,38,Winter,By Road,A must-visit destination with unique attractions.
+Coimbatore,VOC Park,23,Summer,By Boat,A recreational park ideal for family and kids.
+Darjeeling,Tiger Hill,39,Summer,By Air,A picturesque hill with trekking and panoramic views.
+Darjeeling,Batasia Loop,14,Summer,Cable Car,A must-visit destination with unique attractions.
+Darjeeling,Darjeeling Himalayan Railway,13,Monsoon,By Boat,A must-visit destination with unique attractions.
+Dehradun,Robber's Cave,35,Spring,Cable Car,An ancient cave site with archaeological significance.
+Dehradun,Sahastradhara,29,Monsoon,By Road,A must-visit destination with unique attractions.
+Dehradun,Tapkeshwar Temple,15,Spring,Cable Car,A famous and spiritual temple known for religious significance.
+Delhi,Red Fort,29,Winter,By Boat,A historical fort offering insights into past architecture.
+Delhi,India Gate,6,Autumn,By Train,A must-visit destination with unique attractions.
+Delhi,Qutub Minar,7,Summer,Cable Car,A must-visit destination with unique attractions.
+Gangtok,MG Road,25,Autumn,By Road,A must-visit destination with unique attractions.
+Gangtok,Tsomgo Lake,15,Winter,By Boat,"A scenic lake, great for boating and photography."
+Gangtok,Rumtek Monastery,16,Summer,By Road,A must-visit destination with unique attractions.
+Goa,Baga Beach,13,Monsoon,Cable Car,A relaxing beach with golden sands and gentle waves.
+Goa,Fort Aguada,23,Autumn,By Road,A historical fort offering insights into past architecture.
+Goa,Basilica of Bom Jesus,29,Monsoon,By Air,A must-visit destination with unique attractions.
+Guwahati,Kamakhya Temple,40,Monsoon,By Air,A famous and spiritual temple known for religious significance.
+Guwahati,Umananda Temple,26,Spring,By Road,A famous and spiritual temple known for religious significance.
+Guwahati,Assam State Museum,29,Autumn,By Air,An informative museum showcasing local culture and history.
+Hampi,Virupaksha Temple,38,Monsoon,By Train,A famous and spiritual temple known for religious significance.
+Hampi,Vittala Temple,40,Summer,By Road,A famous and spiritual temple known for religious significance.
+Hampi,Hampi Bazaar,3,Monsoon,By Boat,A must-visit destination with unique attractions.
+Haridwar,Har Ki Pauri,30,Monsoon,Cable Car,A must-visit destination with unique attractions.
+Haridwar,Chandi Devi Temple,3,Winter,By Road,A famous and spiritual temple known for religious significance.
+Haridwar,Mansa Devi Temple,15,Autumn,Cable Car,A famous and spiritual temple known for religious significance.
+Hyderabad,Charminar,7,Autumn,By Train,A must-visit destination with unique attractions.
+Hyderabad,Golconda Fort,26,Autumn,By Road,A historical fort offering insights into past architecture.
+Hyderabad,Ramoji Film City,40,Autumn,By Air,A must-visit destination with unique attractions.
+Indore,Rajwada Palace,20,Spring,By Road,A royal palace reflecting rich heritage and art.
+Indore,Lal Bagh Palace,11,Winter,By Air,A royal palace reflecting rich heritage and art.
+Indore,Sarafa Bazaar,31,Autumn,Cable Car,A must-visit destination with unique attractions.
+Jaipur,Hawa Mahal,37,Summer,By Road,A must-visit destination with unique attractions.
+Jaipur,Amber Fort,29,Summer,By Boat,A historical fort offering insights into past architecture.
+Jaipur,City Palace,8,Winter,By Air,A royal palace reflecting rich heritage and art.
+Jaisalmer,Jaisalmer Fort,21,Summer,By Boat,A historical fort offering insights into past architecture.
+Jaisalmer,Patwon Ki Haveli,9,Winter,By Train,A must-visit destination with unique attractions.
+Jaisalmer,Sam Sand Dunes,27,Monsoon,Cable Car,A must-visit destination with unique attractions.
+Kochi,Fort Kochi,14,Winter,Cable Car,A historical fort offering insights into past architecture.
+Kochi,Jew Town,14,Monsoon,By Boat,A must-visit destination with unique attractions.
+Kochi,Mattancherry Palace,26,Summer,By Boat,A royal palace reflecting rich heritage and art.
+Kodaikanal,Kodai Lake,5,Monsoon,By Road,"A scenic lake, great for boating and photography."
+Kodaikanal,Coaker's Walk,6,Autumn,By Air,A must-visit destination with unique attractions.
+Kodaikanal,Bryant Park,7,Autumn,Cable Car,A recreational park ideal for family and kids.
+Kolkata,Victoria Memorial,7,Monsoon,Cable Car,A must-visit destination with unique attractions.
+Kolkata,Howrah Bridge,31,Autumn,By Train,A must-visit destination with unique attractions.
+Kolkata,Dakshineswar Temple,12,Monsoon,By Boat,A famous and spiritual temple known for religious significance.
+Leh,Pangong Lake,30,Monsoon,By Road,"A scenic lake, great for boating and photography."
+Leh,Shanti Stupa,38,Winter,By Air,A must-visit destination with unique attractions.
+Leh,Leh Palace,3,Summer,By Road,A royal palace reflecting rich heritage and art.
+Lucknow,Bara Imambara,34,Monsoon,Cable Car,A must-visit destination with unique attractions.
+Lucknow,Rumi Darwaza,11,Summer,By Boat,A must-visit destination with unique attractions.
+Lucknow,Ambedkar Memorial Park,20,Winter,By Air,A recreational park ideal for family and kids.
+Mahabalipuram,Shore Temple,12,Spring,By Train,A famous and spiritual temple known for religious significance.
+Mahabalipuram,Pancha Rathas,5,Summer,By Air,A must-visit destination with unique attractions.
+Mahabalipuram,Arjuna's Penance,10,Spring,By Boat,A must-visit destination with unique attractions.
+Manali,Hadimba Temple,31,Winter,Cable Car,A famous and spiritual temple known for religious significance.
+Manali,Solang Valley,28,Summer,By Train,A must-visit destination with unique attractions.
+Manali,Rohtang Pass,3,Summer,By Boat,A must-visit destination with unique attractions.
+Mount Abu,Dilwara Temples,32,Monsoon,By Air,A famous and spiritual temple known for religious significance.
+Mount Abu,Nakki Lake,24,Summer,By Train,"A scenic lake, great for boating and photography."
+Mount Abu,Guru Shikhar,6,Monsoon,By Boat,A must-visit destination with unique attractions.
+Mumbai,Gateway of India,24,Autumn,By Train,A must-visit destination with unique attractions.
+Mumbai,Marine Drive,11,Summer,Cable Car,A must-visit destination with unique attractions.
+Mumbai,Elephanta Caves,31,Autumn,By Boat,An ancient cave site with archaeological significance.
+Munnar,Tea Gardens,40,Autumn,By Train,A beautifully maintained garden with exotic plants.
+Munnar,Mattupetty Dam,9,Monsoon,By Boat,A must-visit destination with unique attractions.
+Munnar,Eravikulam National Park,36,Winter,By Road,A recreational park ideal for family and kids.
+Mysore,Mysore Palace,23,Monsoon,By Train,A royal palace reflecting rich heritage and art.
+Mysore,Chamundi Hill,33,Winter,By Air,A picturesque hill with trekking and panoramic views.
+Mysore,Brindavan Gardens,34,Monsoon,Cable Car,A beautifully maintained garden with exotic plants.
+Nashik,Sula Vineyards,18,Spring,By Air,A must-visit destination with unique attractions.
+Nashik,Trimbakeshwar Temple,27,Autumn,Cable Car,A famous and spiritual temple known for religious significance.
+Nashik,Panchavati,24,Winter,By Train,A must-visit destination with unique attractions.
+Ooty,Ooty Lake,11,Spring,By Boat,"A scenic lake, great for boating and photography."
+Ooty,Botanical Gardens,7,Summer,By Train,A beautifully maintained garden with exotic plants.
+Ooty,Doddabetta Peak,15,Monsoon,By Boat,A must-visit destination with unique attractions.
+Pondicherry,Promenade Beach,18,Autumn,By Train,A relaxing beach with golden sands and gentle waves.
+Pondicherry,Auroville,31,Autumn,By Boat,A must-visit destination with unique attractions.
+Pondicherry,French Colony,27,Winter,By Boat,A must-visit destination with unique attractions.
+Pune,Shaniwar Wada,9,Monsoon,By Boat,A must-visit destination with unique attractions.
+Pune,Aga Khan Palace,21,Spring,Cable Car,A royal palace reflecting rich heritage and art.
+Pune,Sinhagad Fort,27,Monsoon,By Train,A historical fort offering insights into past architecture.
+Puri,Jagannath Temple,6,Winter,By Air,A famous and spiritual temple known for religious significance.
+Puri,Puri Beach,22,Winter,By Air,A relaxing beach with golden sands and gentle waves.
+Puri,Chilika Lake,4,Monsoon,By Road,"A scenic lake, great for boating and photography."
+Rishikesh,Laxman Jhula,40,Monsoon,Cable Car,A must-visit destination with unique attractions.
+Rishikesh,Triveni Ghat,26,Monsoon,By Boat,A must-visit destination with unique attractions.
+Rishikesh,Neelkanth Mahadev Temple,26,Summer,By Air,A famous and spiritual temple known for religious significance.
+Shillong,Elephant Falls,32,Winter,By Air,A must-visit destination with unique attractions.
+Shillong,Umiam Lake,17,Spring,By Boat,"A scenic lake, great for boating and photography."
+Shillong,Shillong Peak,33,Winter,By Road,A picturesque hill with trekking and panoramic views.
+Shimla,The Ridge,23,Spring,By Road,A must-visit destination with unique attractions.
+Shimla,Mall Road,40,Summer,By Road,A must-visit destination with unique attractions.
+Shimla,Jakhoo Temple,15,Winter,Cable Car,A famous and spiritual temple known for religious significance.
+Srinagar,Dal Lake,11,Spring,By Road,"A scenic lake, great for boating and photography."
+Srinagar,Mughal Gardens,38,Winter,By Boat,A beautifully maintained garden with exotic plants.
+Srinagar,Shankaracharya Temple,19,Autumn,By Air,A famous and spiritual temple known for religious significance.
+Surat,Dumas Beach,12,Winter,By Boat,A relaxing beach with golden sands and gentle waves.
+Surat,Sarthana Nature Park,20,Winter,By Air,A recreational park ideal for family and kids.
+Surat,Dutch Garden,20,Spring,By Boat,A beautifully maintained garden with exotic plants.
+Thiruvananthapuram,Padmanabhaswamy Temple,33,Winter,Cable Car,A famous and spiritual temple known for religious significance.
+Thiruvananthapuram,Kovalam Beach,6,Winter,Cable Car,A relaxing beach with golden sands and gentle waves.
+Thiruvananthapuram,Napier Museum,29,Summer,By Train,An informative museum showcasing local culture and history.
+Udaipur,City Palace,37,Autumn,Cable Car,A royal palace reflecting rich heritage and art.
+Udaipur,Lake Pichola,31,Summer,By Boat,"A scenic lake, great for boating and photography."
+Udaipur,Jag Mandir,37,Winter,By Air,A must-visit destination with unique attractions.
+Varanasi,Kashi Vishwanath Temple,30,Monsoon,By Air,A famous and spiritual temple known for religious significance.
+Varanasi,Dashashwamedh Ghat,29,Winter,By Boat,A must-visit destination with unique attractions.
+Varanasi,Sarnath,35,Summer,By Road,A must-visit destination with unique attractions.
+Vijayawada,Kanaka Durga Temple,7,Summer,By Road,A famous and spiritual temple known for religious significance.
+Vijayawada,Prakasam Barrage,27,Summer,By Road,A must-visit destination with unique attractions.
+Vijayawada,Undavalli Caves,26,Winter,By Air,An ancient cave site with archaeological significance.

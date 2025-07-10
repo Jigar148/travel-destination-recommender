@@ -1,0 +1,144 @@
+DESTINATION,HOTEL_TYPE,STARS,PRICE_PER_NIGHT,ROOM_TYPE
+Agra,Budget Hotel,5,125,Executive - Near Airport
+Agra,Luxury Resort,5,258,Deluxe - Downtown
+Ahmedabad,Business Hotel,2,101,Deluxe - Historic District
+Ahmedabad,Business Hotel,4,183,Deluxe - Downtown
+Ahmedabad,Budget Hotel,3,229,Suite - Beachfront
+Ahmedabad,Business Hotel,4,183,Suite - Beachfront
+Alleppey,Business Hotel,3,94,Standard - Beachfront
+Alleppey,Mountain Lodge,2,87,Standard - Lake View
+Alleppey,Luxury Resort,4,55,Standard - Hilltop
+Alleppey,Heritage Hotel,2,161,Executive - Beachfront
+Amritsar,Luxury Resort,5,160,Standard - Near Airport
+Amritsar,Boutique Hotel,3,219,Suite - Beachfront
+Bangalore,Mountain Lodge,5,85,Family Room - Lake View
+Bangalore,Luxury Resort,3,78,Family Room - Historic District
+Bangalore,Business Hotel,2,42,Deluxe - Hilltop
+Bhopal,Business Hotel,3,49,Standard - Beachfront
+Bhopal,Business Hotel,5,179,Family Room - Downtown
+Bhubaneswar,Budget Hotel,5,89,Suite - Historic District
+Bhubaneswar,Heritage Hotel,2,208,Family Room - Beachfront
+Bhubaneswar,Boutique Hotel,2,85,Deluxe - Downtown
+Chandigarh,Beach Resort,2,181,Family Room - Hilltop
+Chandigarh,Budget Hotel,2,180,Executive - Downtown
+Chennai,Mountain Lodge,4,98,Family Room - Hilltop
+Chennai,Business Hotel,3,36,Suite - Historic District
+Chennai,Heritage Hotel,2,112,Deluxe - Lake View
+Chennai,Mountain Lodge,3,232,Deluxe - Downtown
+Coimbatore,Business Hotel,2,152,Suite - Lake View
+Coimbatore,Budget Hotel,3,144,Family Room - Beachfront
+Darjeeling,Business Hotel,2,89,Suite - Near Airport
+Darjeeling,Business Hotel,4,86,Standard - Downtown
+Dehradun,Mountain Lodge,5,72,Deluxe - Lake View
+Dehradun,Budget Hotel,5,51,Executive - Downtown
+Delhi,Luxury Resort,2,234,Executive - Downtown
+Delhi,Boutique Hotel,5,156,Family Room - Near Airport
+Delhi,Boutique Hotel,2,245,Executive - Beachfront
+Gangtok,Boutique Hotel,5,217,Deluxe - Near Airport
+Gangtok,Boutique Hotel,4,97,Suite - Downtown
+Gangtok,Beach Resort,3,288,Deluxe - Downtown
+Gangtok,Business Hotel,4,176,Deluxe - Historic District
+Goa,Boutique Hotel,5,230,Executive - Lake View
+Goa,Mountain Lodge,3,291,Executive - Beachfront
+Goa,Luxury Resort,2,232,Suite - Beachfront
+Goa,Boutique Hotel,3,134,Suite - Hilltop
+Guwahati,Mountain Lodge,4,97,Standard - Near Airport
+Guwahati,Mountain Lodge,4,121,Suite - Near Airport
+Hampi,Business Hotel,4,51,Suite - Hilltop
+Hampi,Business Hotel,3,190,Family Room - Historic District
+Hampi,Budget Hotel,5,164,Suite - Near Airport
+Haridwar,Mountain Lodge,2,181,Family Room - Near Airport
+Haridwar,Business Hotel,3,91,Suite - Beachfront
+Haridwar,Luxury Resort,3,135,Family Room - Near Airport
+Haridwar,Business Hotel,4,177,Deluxe - Near Airport
+Hyderabad,Luxury Resort,4,64,Suite - Historic District
+Hyderabad,Mountain Lodge,4,293,Deluxe - City Center
+Hyderabad,Business Hotel,4,67,Suite - Lake View
+Hyderabad,Boutique Hotel,2,54,Standard - Downtown
+Indore,Beach Resort,3,186,Deluxe - Historic District
+Indore,Budget Hotel,3,58,Executive - Beachfront
+Indore,Boutique Hotel,4,229,Deluxe - Lake View
+Indore,Mountain Lodge,3,203,Family Room - City Center
+Jaipur,Luxury Resort,4,111,Executive - Near Airport
+Jaipur,Boutique Hotel,2,294,Executive - Hilltop
+Jaipur,Business Hotel,2,185,Family Room - Hilltop
+Jaisalmer,Budget Hotel,5,64,Deluxe - Hilltop
+Jaisalmer,Business Hotel,2,117,Executive - Near Airport
+Jaisalmer,Budget Hotel,2,206,Family Room - Downtown
+Kochi,Mountain Lodge,2,150,Standard - Historic District
+Kochi,Luxury Resort,4,197,Standard - Downtown
+Kochi,Business Hotel,2,71,Deluxe - Beachfront
+Kochi,Luxury Resort,5,155,Suite - City Center
+Kodaikanal,Budget Hotel,4,156,Family Room - Beachfront
+Kodaikanal,Heritage Hotel,5,176,Standard - Downtown
+Kodaikanal,Business Hotel,3,242,Executive - Beachfront
+Kolkata,Heritage Hotel,2,120,Family Room - Lake View
+Kolkata,Mountain Lodge,5,66,Family Room - City Center
+Kolkata,Budget Hotel,5,280,Standard - Near Airport
+Kolkata,Budget Hotel,2,72,Suite - Lake View
+Leh,Mountain Lodge,3,32,Standard - Near Airport
+Leh,Heritage Hotel,2,63,Suite - Historic District
+Leh,Beach Resort,5,267,Family Room - City Center
+Leh,Business Hotel,5,277,Family Room - Historic District
+Lucknow,Mountain Lodge,5,258,Standard - Historic District
+Lucknow,Mountain Lodge,4,163,Family Room - Near Airport
+Lucknow,Business Hotel,5,83,Suite - Historic District
+Lucknow,Beach Resort,2,210,Family Room - Historic District
+Mahabalipuram,Beach Resort,4,182,Family Room - City Center
+Mahabalipuram,Beach Resort,4,59,Executive - Downtown
+Mahabalipuram,Heritage Hotel,3,60,Deluxe - Beachfront
+Manali,Beach Resort,3,41,Deluxe - Hilltop
+Manali,Business Hotel,4,139,Deluxe - Lake View
+Manali,Business Hotel,3,175,Deluxe - Downtown
+Mount Abu,Luxury Resort,2,186,Suite - Lake View
+Mount Abu,Boutique Hotel,5,125,Standard - Near Airport
+Mount Abu,Beach Resort,2,65,Standard - Near Airport
+Mumbai,Budget Hotel,4,145,Family Room - City Center
+Mumbai,Budget Hotel,3,166,Family Room - Beachfront
+Mumbai,Luxury Resort,3,75,Suite - Beachfront
+Munnar,Budget Hotel,3,57,Standard - Downtown
+Munnar,Heritage Hotel,4,149,Standard - Lake View
+Mysore,Business Hotel,4,183,Deluxe - Lake View
+Mysore,Boutique Hotel,4,163,Executive - Historic District
+Nashik,Business Hotel,3,191,Suite - Beachfront
+Nashik,Mountain Lodge,5,167,Executive - Beachfront
+Ooty,Beach Resort,3,280,Family Room - Beachfront
+Ooty,Beach Resort,2,279,Family Room - Hilltop
+Ooty,Heritage Hotel,2,233,Family Room - Historic District
+Ooty,Luxury Resort,2,247,Suite - Historic District
+Pondicherry,Budget Hotel,2,225,Standard - Hilltop
+Pondicherry,Business Hotel,4,154,Suite - Near Airport
+Pondicherry,Boutique Hotel,2,161,Standard - Downtown
+Pune,Mountain Lodge,5,64,Family Room - Downtown
+Pune,Heritage Hotel,3,91,Deluxe - Lake View
+Puri,Mountain Lodge,3,98,Standard - City Center
+Puri,Budget Hotel,3,53,Family Room - City Center
+Puri,Mountain Lodge,4,52,Deluxe - Near Airport
+Puri,Luxury Resort,2,224,Suite - Near Airport
+Rishikesh,Budget Hotel,5,171,Suite - Hilltop
+Rishikesh,Boutique Hotel,5,84,Deluxe - Beachfront
+Rishikesh,Mountain Lodge,4,225,Suite - City Center
+Shillong,Boutique Hotel,5,245,Standard - Downtown
+Shillong,Budget Hotel,5,293,Standard - Downtown
+Shimla,Budget Hotel,3,56,Executive - Near Airport
+Shimla,Business Hotel,3,161,Standard - Beachfront
+Shimla,Budget Hotel,2,81,Executive - Beachfront
+Srinagar,Boutique Hotel,2,260,Deluxe - Hilltop
+Srinagar,Business Hotel,4,289,Suite - City Center
+Srinagar,Boutique Hotel,5,247,Standard - Hilltop
+Surat,Budget Hotel,3,31,Family Room - City Center
+Surat,Boutique Hotel,4,135,Standard - Downtown
+Surat,Budget Hotel,4,127,Family Room - Downtown
+Surat,Mountain Lodge,2,276,Executive - Historic District
+Thiruvananthapuram,Business Hotel,2,62,Family Room - Near Airport
+Thiruvananthapuram,Beach Resort,2,30,Family Room - Downtown
+Thiruvananthapuram,Luxury Resort,3,267,Standard - Hilltop
+Thiruvananthapuram,Budget Hotel,4,214,Suite - Near Airport
+Udaipur,Boutique Hotel,4,95,Executive - Downtown
+Udaipur,Beach Resort,2,216,Suite - Hilltop
+Varanasi,Beach Resort,4,212,Executive - Beachfront
+Varanasi,Business Hotel,5,47,Deluxe - Lake View
+Varanasi,Heritage Hotel,4,182,Deluxe - Downtown
+Vijayawada,Boutique Hotel,2,270,Executive - Downtown
+Vijayawada,Heritage Hotel,3,89,Suite - Near Airport
+Vijayawada,Mountain Lodge,2,185,Suite - Lake View

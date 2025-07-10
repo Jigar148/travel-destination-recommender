@@ -1,0 +1,1001 @@
+CLIMATE,SEASON,TRAVEL_TYPE,GROUP_TYPE,DURATION,AMOUNT_USD,DESTINATION
+Arid,Rainy,Adventure,Tour Group,1 month,44954,Guwahati
+Humid,Rainy,Luxury,Senior Citizens,2 weeks,30801,Manali
+Tropical,Rainy,Leisure,Senior Citizens,6 days,3980,Varanasi
+Polar,Rainy,Family,Students,3 days,2168,Amritsar
+Continental,Cold,Leisure,Solo,1 day,495,Haridwar
+Tropical,Rainy,Business,Senior Citizens,5 days,2704,Mumbai
+Dry,Hot,Solo,Friends,4 days,2039,Goa
+Mediterranean,Rainy,Adventure,Students,6 days,5438,Jaipur
+Tropical,Rainy,Budget,Tour Group,1 month,22450,Bhopal
+Arid,Dry,Adventure,Senior Citizens,1 day,1067,Mahabalipuram
+Tropical,Dry,Religious,Family,4 days,2040,Guwahati
+Dry,Hot,Adventure,Friends,5 days,5029,Thiruvananthapuram
+Humid,Hot,Cultural,Family,5 days,2496,Chennai
+Humid,Cold,Leisure,Senior Citizens,3 days,1981,Shillong
+Mediterranean,Cold,Leisure,Family,2 days,1165,Chandigarh
+Mediterranean,Rainy,Solo,Friends,3 weeks,10518,Leh
+Humid,Hot,Luxury,Senior Citizens,6 days,13199,Pondicherry
+Oceanic,Dry,Religious,Friends,1 day,463,Indore
+Temperate,Hot,Family,Senior Citizens,6 days,5254,Ooty
+Mediterranean,Cold,Cultural,Tour Group,2 days,1468,Udaipur
+Arid,Rainy,Luxury,Students,1 month,53995,Jaisalmer
+Continental,Hot,Solo,Solo,1 day,355,Haridwar
+Oceanic,Dry,Leisure,Tour Group,6 days,5438,Darjeeling
+Temperate,Dry,Eco-Tourism,Friends,1 month,14967,Hampi
+Mediterranean,Hot,Cultural,Corporate,6 days,2986,Jaisalmer
+Humid,Hot,Luxury,Couple,5 days,11990,Agra
+Polar,Cold,Luxury,Couple,1 week,16773,Pune
+Oceanic,Dry,Business,Couple,6 days,3629,Indore
+Temperate,Dry,Budget,Solo,1 month,11995,Coimbatore
+Temperate,Cold,Budget,Tour Group,5 days,3778,Bangalore
+Humid,Rainy,Luxury,Solo,4 days,6416,Amritsar
+Temperate,Hot,Solo,Senior Citizens,2 weeks,7683,Nashik
+Polar,Hot,Cultural,Solo,1 day,389,Coimbatore
+Desert,Cold,Business,Students,4 days,1793,Varanasi
+Continental,Cold,Adventure,Students,10 days,8952,Chandigarh
+Arid,Rainy,Family,Solo,1 week,4506,Bangalore
+Polar,Rainy,Luxury,Family,3 weeks,41952,Hampi
+Dry,Rainy,Family,Friends,1 month,24000,Srinagar
+Continental,Rainy,Leisure,Friends,5 days,2950,Kodaikanal
+Tropical,Rainy,Solo,Corporate,4 days,1963,Coimbatore
+Temperate,Cold,Religious,Corporate,5 days,2507,Kolkata
+Humid,Hot,Eco-Tourism,Students,1 week,3114,Varanasi
+Arid,Cold,Luxury,Couple,3 weeks,50407,Leh
+Humid,Rainy,Cultural,Couple,2 weeks,8382,Amritsar
+Oceanic,Hot,Leisure,Students,1 day,533,Mount Abu
+Mediterranean,Dry,Budget,Solo,1 day,357,Leh
+Arid,Hot,Eco-Tourism,Students,3 days,1388,Bangalore
+Humid,Dry,Adventure,Students,10 days,9017,Mumbai
+Temperate,Hot,Eco-Tourism,Couple,10 days,5984,Kolkata
+Dry,Dry,Cultural,Students,1 week,3153,Mysore
+Oceanic,Cold,Cultural,Senior Citizens,3 days,1637,Darjeeling
+Desert,Dry,Leisure,Solo,2 weeks,6768,Haridwar
+Continental,Dry,Business,Senior Citizens,2 weeks,7652,Surat
+Temperate,Dry,Leisure,Students,1 month,16185,Shimla
+Oceanic,Dry,Leisure,Family,5 days,2989,Dehradun
+Polar,Hot,Business,Couple,4 days,2405,Bangalore
+Humid,Rainy,Eco-Tourism,Students,10 days,4485,Lucknow
+Temperate,Hot,Cultural,Tour Group,3 days,2283,Darjeeling
+Continental,Cold,Eco-Tourism,Friends,10 days,5000,Delhi
+Mediterranean,Hot,Cultural,Solo,3 weeks,8388,Leh
+Desert,Rainy,Cultural,Students,1 week,3132,Surat
+Mediterranean,Dry,Cultural,Senior Citizens,3 weeks,11541,Mount Abu
+Oceanic,Rainy,Adventure,Couple,5 days,5960,Indore
+Temperate,Hot,Leisure,Tour Group,3 weeks,18881,Mount Abu
+Polar,Hot,Adventure,Corporate,5 days,4970,Leh
+Oceanic,Dry,Leisure,Family,1 month,17967,Jaisalmer
+Tropical,Dry,Religious,Senior Citizens,3 weeks,11516,Hyderabad
+Continental,Rainy,Leisure,Students,2 weeks,7556,Goa
+Desert,Dry,Cultural,Tour Group,2 days,1476,Rishikesh
+Mediterranean,Rainy,Luxury,Family,1 month,60037,Indore
+Temperate,Dry,Budget,Corporate,1 month,15013,Bhubaneswar
+Continental,Cold,Family,Solo,1 day,686,Delhi
+Polar,Dry,Cultural,Family,6 days,2985,Puri
+Dry,Cold,Religious,Students,4 days,1791,Mahabalipuram
+Desert,Dry,Budget,Tour Group,1 day,707,Munnar
+Humid,Hot,Cultural,Students,10 days,4499,Shillong
+Temperate,Hot,Business,Solo,2 weeks,5574,Indore
+Mediterranean,Dry,Adventure,Couple,1 day,1202,Hampi
+Tropical,Hot,Business,Senior Citizens,2 days,1129,Goa
+Temperate,Hot,Business,Solo,10 days,3988,Thiruvananthapuram
+Desert,Hot,Cultural,Family,6 days,3004,Dehradun
+Temperate,Rainy,Cultural,Tour Group,6 days,4514,Kolkata
+Oceanic,Cold,Business,Tour Group,3 weeks,15760,Haridwar
+Polar,Dry,Business,Friends,5 days,2489,Agra
+Mediterranean,Cold,Solo,Family,6 days,2967,Jaipur
+Mediterranean,Dry,Adventure,Tour Group,6 days,8957,Hyderabad
+Mediterranean,Dry,Solo,Family,2 weeks,6999,Delhi
+Dry,Hot,Solo,Students,10 days,4487,Srinagar
+Polar,Rainy,Budget,Solo,10 days,3968,Varanasi
+Dry,Rainy,Luxury,Family,3 days,6030,Lucknow
+Polar,Rainy,Leisure,Senior Citizens,5 days,3283,Guwahati
+Continental,Rainy,Cultural,Couple,1 week,4174,Haridwar
+Mediterranean,Cold,Adventure,Friends,2 days,1993,Darjeeling
+Oceanic,Cold,Cultural,Students,3 weeks,9451,Chandigarh
+Mediterranean,Dry,Business,Tour Group,1 week,5285,Coimbatore
+Dry,Rainy,Business,Couple,3 weeks,12627,Hyderabad
+Mediterranean,Dry,Solo,Family,5 days,2472,Thiruvananthapuram
+Dry,Dry,Family,Friends,1 day,835,Hyderabad
+Continental,Dry,Eco-Tourism,Tour Group,3 weeks,15725,Puri
+Continental,Hot,Eco-Tourism,Family,10 days,5019,Gangtok
+Dry,Hot,Eco-Tourism,Tour Group,2 days,1463,Goa
+Arid,Rainy,Luxury,Senior Citizens,1 month,66028,Mount Abu
+Continental,Rainy,Budget,Family,1 month,14988,Mahabalipuram
+Polar,Hot,Cultural,Family,2 weeks,6997,Kodaikanal
+Humid,Cold,Business,Family,3 days,1451,Alleppey
+Oceanic,Cold,Business,Corporate,1 week,3450,Chandigarh
+Humid,Cold,Leisure,Tour Group,10 days,8982,Jaipur
+Oceanic,Dry,Luxury,Family,1 month,60029,Kolkata
+Arid,Rainy,Luxury,Couple,2 days,4826,Indore
+Desert,Dry,Luxury,Tour Group,1 week,20957,Bhubaneswar
+Continental,Dry,Luxury,Students,6 days,10828,Kochi
+Temperate,Dry,Leisure,Senior Citizens,6 days,3922,Kodaikanal
+Polar,Cold,Family,Senior Citizens,1 week,6182,Jaipur
+Arid,Cold,Solo,Students,1 week,3134,Leh
+Polar,Dry,Solo,Friends,1 day,476,Shimla
+Oceanic,Rainy,Family,Friends,6 days,4823,Bhubaneswar
+Arid,Hot,Luxury,Tour Group,1 week,21037,Gangtok
+Tropical,Cold,Luxury,Students,2 days,3620,Ooty
+Mediterranean,Rainy,Religious,Senior Citizens,6 days,3278,Coimbatore
+Desert,Rainy,Solo,Students,6 days,2701,Shillong
+Polar,Dry,Luxury,Corporate,5 days,10040,Mount Abu
+Desert,Dry,Luxury,Corporate,1 day,1973,Mumbai
+Arid,Hot,Adventure,Family,1 week,7013,Srinagar
+Temperate,Cold,Business,Senior Citizens,1 week,3898,Ooty
+Mediterranean,Hot,Business,Friends,1 week,3492,Chandigarh
+Mediterranean,Rainy,Luxury,Friends,1 day,1959,Chennai
+Desert,Rainy,Luxury,Corporate,3 weeks,42030,Bhopal
+Mediterranean,Cold,Cultural,Family,6 days,3042,Kochi
+Arid,Hot,Family,Tour Group,2 days,2368,Kolkata
+Mediterranean,Dry,Budget,Tour Group,1 day,792,Srinagar
+Tropical,Hot,Eco-Tourism,Senior Citizens,3 days,1637,Nashik
+Temperate,Cold,Leisure,Couple,2 days,1420,Kochi
+Oceanic,Cold,Family,Family,6 days,4799,Bangalore
+Temperate,Cold,Leisure,Solo,4 days,1880,Kodaikanal
+Continental,Rainy,Business,Solo,2 weeks,5646,Shimla
+Arid,Rainy,Eco-Tourism,Corporate,1 week,3499,Mount Abu
+Oceanic,Hot,Leisure,Couple,3 days,2123,Vijayawada
+Temperate,Dry,Business,Senior Citizens,4 days,2220,Amritsar
+Arid,Cold,Business,Couple,5 days,2956,Amritsar
+Tropical,Cold,Eco-Tourism,Family,2 days,994,Indore
+Arid,Hot,Budget,Solo,1 month,11956,Jaipur
+Mediterranean,Dry,Solo,Family,4 days,2028,Mount Abu
+Continental,Cold,Religious,Friends,2 weeks,7035,Puri
+Desert,Cold,Family,Corporate,4 days,3152,Indore
+Humid,Hot,Family,Family,10 days,8041,Nashik
+Desert,Cold,Adventure,Family,4 days,3988,Leh
+Polar,Cold,Religious,Solo,6 days,2424,Ahmedabad
+Desert,Cold,Adventure,Friends,1 week,7047,Munnar
+Desert,Cold,Cultural,Couple,1 month,18049,Gangtok
+Arid,Rainy,Eco-Tourism,Couple,3 days,1818,Ooty
+Temperate,Rainy,Leisure,Couple,1 month,21584,Chennai
+Dry,Cold,Cultural,Couple,1 day,612,Amritsar
+Dry,Cold,Solo,Tour Group,1 week,5271,Lucknow
+Humid,Hot,Budget,Family,4 days,2030,Kochi
+Desert,Cold,Cultural,Friends,10 days,5041,Goa
+Continental,Rainy,Solo,Family,3 days,1512,Kochi
+Desert,Cold,Luxury,Couple,3 days,7153,Amritsar
+Continental,Rainy,Leisure,Solo,1 week,3378,Mount Abu
+Continental,Cold,Adventure,Corporate,3 weeks,21040,Lucknow
+Dry,Cold,Cultural,Solo,1 day,410,Varanasi
+Humid,Hot,Cultural,Couple,1 week,4235,Gangtok
+Desert,Cold,Solo,Solo,5 days,2035,Bangalore
+Dry,Rainy,Religious,Couple,3 days,1775,Mahabalipuram
+Temperate,Rainy,Leisure,Solo,6 days,2903,Indore
+Tropical,Rainy,Adventure,Friends,6 days,5969,Kolkata
+Oceanic,Hot,Family,Solo,2 days,1234,Srinagar
+Dry,Dry,Cultural,Family,1 month,14995,Alleppey
+Dry,Hot,Religious,Corporate,2 days,964,Rishikesh
+Humid,Dry,Leisure,Students,6 days,3214,Puri
+Desert,Rainy,Adventure,Solo,2 days,1633,Munnar
+Arid,Rainy,Luxury,Students,1 month,54031,Gangtok
+Arid,Dry,Cultural,Solo,2 days,750,Chandigarh
+Arid,Cold,Business,Students,1 week,3149,Mumbai
+Arid,Rainy,Leisure,Couple,5 days,3608,Mount Abu
+Continental,Cold,Eco-Tourism,Tour Group,6 days,4528,Indore
+Humid,Rainy,Family,Solo,5 days,3239,Vijayawada
+Arid,Hot,Religious,Couple,3 days,1845,Leh
+Polar,Rainy,Solo,Senior Citizens,1 day,543,Guwahati
+Dry,Dry,Eco-Tourism,Senior Citizens,1 day,510,Munnar
+Mediterranean,Hot,Business,Senior Citizens,1 week,3821,Alleppey
+Desert,Hot,Solo,Family,2 weeks,7035,Srinagar
+Tropical,Rainy,Budget,Corporate,1 day,475,Amritsar
+Oceanic,Hot,Eco-Tourism,Family,2 days,976,Amritsar
+Polar,Dry,Luxury,Couple,1 week,16780,Guwahati
+Oceanic,Rainy,Cultural,Friends,1 day,508,Kolkata
+Temperate,Dry,Eco-Tourism,Friends,10 days,5005,Kodaikanal
+Desert,Dry,Business,Senior Citizens,1 week,3801,Kolkata
+Desert,Rainy,Religious,Students,1 month,13455,Ooty
+Continental,Dry,Family,Family,2 weeks,11243,Indore
+Mediterranean,Cold,Religious,Senior Citizens,1 week,3882,Amritsar
+Mediterranean,Dry,Leisure,Corporate,1 day,619,Thiruvananthapuram
+Dry,Rainy,Leisure,Tour Group,5 days,4539,Hampi
+Continental,Dry,Luxury,Corporate,10 days,20040,Ooty
+Humid,Cold,Eco-Tourism,Students,4 days,1778,Mysore
+Humid,Cold,Budget,Solo,10 days,4001,Mysore
+Mediterranean,Cold,Cultural,Solo,4 days,1584,Delhi
+Continental,Cold,Budget,Solo,1 day,357,Surat
+Humid,Dry,Religious,Family,6 days,2980,Kochi
+Humid,Hot,Solo,Friends,4 days,2008,Pune
+Arid,Rainy,Eco-Tourism,Senior Citizens,3 days,1605,Agra
+Temperate,Rainy,Luxury,Solo,4 days,6385,Ahmedabad
+Humid,Rainy,Adventure,Couple,2 days,2381,Rishikesh
+Oceanic,Hot,Eco-Tourism,Solo,2 days,768,Chandigarh
+Oceanic,Dry,Religious,Corporate,6 days,3018,Udaipur
+Temperate,Hot,Cultural,Family,3 days,1496,Dehradun
+Mediterranean,Dry,Business,Couple,6 days,3627,Gangtok
+Desert,Hot,Business,Solo,3 days,1173,Mumbai
+Arid,Dry,Business,Tour Group,10 days,7472,Delhi
+Polar,Cold,Solo,Couple,4 days,2371,Agra
+Desert,Dry,Luxury,Students,1 day,1767,Mahabalipuram
+Temperate,Hot,Family,Solo,1 month,19175,Nashik
+Mediterranean,Hot,Religious,Couple,6 days,3622,Kodaikanal
+Tropical,Cold,Solo,Friends,4 days,1951,Puri
+Desert,Hot,Solo,Friends,1 day,534,Thiruvananthapuram
+Polar,Hot,Cultural,Corporate,3 days,1530,Thiruvananthapuram
+Tropical,Cold,Religious,Friends,2 days,978,Agra
+Polar,Cold,Leisure,Solo,5 days,2352,Mahabalipuram
+Desert,Cold,Leisure,Couple,2 days,1395,Shillong
+Continental,Hot,Leisure,Students,2 weeks,7526,Ooty
+Arid,Cold,Adventure,Friends,4 days,3952,Agra
+Tropical,Dry,Solo,Senior Citizens,3 days,1618,Mahabalipuram
+Arid,Dry,Budget,Senior Citizens,3 days,1661,Vijayawada
+Oceanic,Hot,Luxury,Solo,5 days,7974,Kolkata
+Tropical,Cold,Solo,Tour Group,1 week,5211,Mount Abu
+Polar,Cold,Cultural,Friends,2 weeks,7023,Gangtok
+Polar,Cold,Solo,Couple,1 day,562,Munnar
+Dry,Cold,Eco-Tourism,Couple,4 days,2406,Hampi
+Dry,Cold,Religious,Corporate,3 weeks,10461,Mysore
+Humid,Hot,Adventure,Couple,1 day,1161,Kochi
+Dry,Cold,Business,Corporate,1 week,3475,Puri
+Temperate,Hot,Budget,Couple,2 days,1213,Haridwar
+Humid,Rainy,Religious,Friends,3 days,1457,Pondicherry
+Polar,Dry,Family,Solo,3 weeks,13465,Jaipur
+Temperate,Rainy,Budget,Family,1 month,14954,Thiruvananthapuram
+Desert,Dry,Budget,Students,3 weeks,9409,Chennai
+Desert,Hot,Religious,Senior Citizens,1 week,3804,Amritsar
+Continental,Rainy,Solo,Solo,5 days,2021,Hyderabad
+Mediterranean,Cold,Adventure,Solo,10 days,7997,Mahabalipuram
+Humid,Rainy,Luxury,Friends,3 weeks,41991,Mahabalipuram
+Polar,Dry,Family,Senior Citizens,5 days,4412,Pondicherry
+Dry,Hot,Business,Senior Citizens,6 days,3300,Chandigarh
+Arid,Rainy,Leisure,Students,5 days,2683,Pondicherry
+Polar,Hot,Eco-Tourism,Corporate,4 days,2012,Chandigarh
+Oceanic,Hot,Solo,Students,6 days,2688,Gangtok
+Dry,Hot,Adventure,Family,6 days,5995,Mahabalipuram
+Temperate,Cold,Leisure,Corporate,1 month,17994,Pondicherry
+Desert,Hot,Religious,Students,1 day,404,Amritsar
+Humid,Rainy,Religious,Corporate,3 days,1456,Varanasi
+Oceanic,Rainy,Budget,Students,5 days,2256,Shimla
+Mediterranean,Rainy,Cultural,Tour Group,4 days,2988,Manali
+Tropical,Hot,Luxury,Senior Citizens,3 days,6610,Pune
+Mediterranean,Cold,Eco-Tourism,Senior Citizens,1 day,516,Haridwar
+Oceanic,Rainy,Religious,Family,1 week,3458,Hampi
+Dry,Cold,Business,Family,6 days,2970,Mysore
+Arid,Rainy,Luxury,Senior Citizens,1 day,2233,Ooty
+Humid,Dry,Leisure,Friends,4 days,2355,Goa
+Arid,Cold,Leisure,Senior Citizens,6 days,3911,Ooty
+Humid,Cold,Cultural,Family,10 days,5017,Ooty
+Humid,Hot,Religious,Friends,3 days,1464,Chennai
+Dry,Hot,Luxury,Students,3 days,5375,Darjeeling
+Tropical,Rainy,Leisure,Senior Citizens,1 week,4603,Mahabalipuram
+Oceanic,Rainy,Luxury,Friends,1 day,1995,Guwahati
+Tropical,Hot,Family,Corporate,1 day,830,Munnar
+Tropical,Dry,Solo,Students,2 days,862,Jaisalmer
+Polar,Cold,Family,Friends,1 day,847,Kochi
+Tropical,Dry,Leisure,Students,2 days,1033,Shimla
+Humid,Rainy,Religious,Corporate,2 weeks,6954,Nashik
+Temperate,Hot,Luxury,Students,3 days,5405,Mysore
+Oceanic,Dry,Adventure,Corporate,2 days,1992,Guwahati
+Continental,Dry,Religious,Couple,6 days,3585,Srinagar
+Dry,Dry,Leisure,Friends,5 days,2957,Thiruvananthapuram
+Desert,Cold,Cultural,Senior Citizens,4 days,2238,Kochi
+Tropical,Rainy,Family,Family,2 weeks,11219,Coimbatore
+Dry,Rainy,Budget,Senior Citizens,1 day,588,Guwahati
+Desert,Rainy,Budget,Couple,1 day,576,Rishikesh
+Polar,Cold,Adventure,Solo,6 days,4804,Vijayawada
+Polar,Cold,Solo,Students,3 days,1341,Leh
+Temperate,Cold,Adventure,Senior Citizens,1 month,32974,Mahabalipuram
+Temperate,Dry,Leisure,Friends,2 weeks,8412,Udaipur
+Desert,Hot,Adventure,Students,1 week,6311,Jaisalmer
+Tropical,Hot,Budget,Family,2 weeks,7012,Surat
+Desert,Rainy,Business,Friends,10 days,4986,Bhopal
+Oceanic,Hot,Luxury,Tour Group,1 week,20990,Agra
+Dry,Cold,Religious,Tour Group,4 days,2990,Jaisalmer
+Tropical,Cold,Cultural,Students,10 days,4493,Indore
+Temperate,Dry,Cultural,Corporate,2 weeks,7018,Udaipur
+Continental,Rainy,Cultural,Senior Citizens,5 days,2716,Bhopal
+Humid,Cold,Budget,Tour Group,3 days,2250,Leh
+Humid,Hot,Solo,Tour Group,5 days,3736,Mahabalipuram
+Polar,Dry,Luxury,Tour Group,1 month,89960,Chandigarh
+Continental,Hot,Luxury,Tour Group,5 days,14998,Surat
+Desert,Hot,Solo,Tour Group,10 days,7539,Varanasi
+Humid,Rainy,Budget,Solo,10 days,4047,Agra
+Humid,Rainy,Adventure,Students,3 weeks,18900,Jaisalmer
+Dry,Hot,Business,Students,6 days,2684,Indore
+Continental,Hot,Religious,Friends,2 days,958,Gangtok
+Arid,Dry,Adventure,Corporate,1 day,1027,Delhi
+Humid,Rainy,Cultural,Students,6 days,2689,Ooty
+Temperate,Hot,Luxury,Couple,1 day,2429,Mahabalipuram
+Mediterranean,Rainy,Solo,Family,1 month,14969,Leh
+Arid,Rainy,Eco-Tourism,Corporate,4 days,2036,Goa
+Temperate,Cold,Budget,Corporate,3 weeks,10457,Leh
+Mediterranean,Rainy,Cultural,Senior Citizens,6 days,3321,Udaipur
+Mediterranean,Cold,Business,Family,4 days,2006,Chandigarh
+Arid,Hot,Leisure,Solo,1 day,433,Dehradun
+Arid,Dry,Religious,Students,4 days,1791,Agra
+Continental,Hot,Family,Solo,1 week,4475,Mount Abu
+Arid,Dry,Luxury,Couple,6 days,14352,Haridwar
+Desert,Rainy,Business,Students,1 week,3168,Mumbai
+Desert,Hot,Solo,Students,5 days,2289,Mumbai
+Desert,Cold,Leisure,Students,4 days,2171,Dehradun
+Desert,Cold,Solo,Couple,5 days,3036,Hyderabad
+Humid,Rainy,Family,Family,5 days,4023,Dehradun
+Arid,Rainy,Eco-Tourism,Friends,3 weeks,10463,Thiruvananthapuram
+Dry,Hot,Cultural,Solo,4 days,1609,Alleppey
+Continental,Dry,Cultural,Solo,1 month,12044,Shimla
+Mediterranean,Hot,Solo,Senior Citizens,1 week,3830,Chennai
+Oceanic,Hot,Luxury,Students,1 month,54016,Jaipur
+Dry,Rainy,Business,Students,1 week,3198,Alleppey
+Arid,Hot,Budget,Tour Group,3 days,2220,Agra
+Polar,Hot,Solo,Tour Group,6 days,4491,Darjeeling
+Mediterranean,Cold,Leisure,Solo,1 month,14409,Guwahati
+Mediterranean,Rainy,Budget,Friends,3 days,1479,Guwahati
+Polar,Cold,Leisure,Family,1 month,18041,Hyderabad
+Arid,Dry,Luxury,Friends,1 month,59978,Kochi
+Mediterranean,Cold,Cultural,Corporate,3 days,1495,Hyderabad
+Arid,Rainy,Cultural,Couple,10 days,5952,Rishikesh
+Tropical,Rainy,Business,Family,1 week,3513,Mount Abu
+Dry,Dry,Adventure,Tour Group,6 days,8978,Bhopal
+Polar,Dry,Luxury,Family,2 weeks,27955,Amritsar
+Tropical,Hot,Adventure,Tour Group,3 weeks,31534,Hyderabad
+Dry,Rainy,Luxury,Solo,6 days,9630,Darjeeling
+Mediterranean,Rainy,Eco-Tourism,Senior Citizens,10 days,5458,Leh
+Dry,Cold,Religious,Friends,4 days,2019,Bhubaneswar
+Polar,Dry,Religious,Corporate,1 month,15026,Thiruvananthapuram
+Oceanic,Cold,Cultural,Corporate,3 days,1514,Gangtok
+Tropical,Rainy,Budget,Couple,3 weeks,12567,Bangalore
+Humid,Dry,Leisure,Students,3 weeks,11356,Jaipur
+Polar,Dry,Eco-Tourism,Students,3 weeks,9484,Indore
+Desert,Rainy,Eco-Tourism,Senior Citizens,4 days,2170,Bhopal
+Mediterranean,Dry,Budget,Students,5 days,2245,Mount Abu
+Oceanic,Cold,Budget,Tour Group,4 days,3031,Amritsar
+Polar,Rainy,Business,Couple,2 weeks,8384,Mysore
+Polar,Cold,Family,Tour Group,1 week,8360,Jaisalmer
+Humid,Hot,Religious,Senior Citizens,1 month,16457,Bhopal
+Arid,Cold,Family,Solo,1 week,4492,Ooty
+Polar,Rainy,Business,Senior Citizens,1 month,16504,Haridwar
+Continental,Cold,Business,Couple,1 month,17972,Rishikesh
+Desert,Cold,Business,Solo,2 days,789,Indore
+Desert,Dry,Cultural,Corporate,3 weeks,10543,Jaipur
+Mediterranean,Hot,Business,Tour Group,3 days,2263,Varanasi
+Oceanic,Dry,Eco-Tourism,Students,1 day,442,Mahabalipuram
+Tropical,Hot,Solo,Corporate,2 weeks,7023,Mysore
+Dry,Cold,Solo,Family,2 days,981,Mount Abu
+Polar,Dry,Business,Corporate,3 days,1472,Goa
+Desert,Cold,Adventure,Solo,3 days,2413,Hyderabad
+Continental,Dry,Luxury,Corporate,1 month,59962,Pondicherry
+Dry,Dry,Eco-Tourism,Tour Group,6 days,4457,Haridwar
+Desert,Rainy,Cultural,Couple,2 days,1201,Goa
+Mediterranean,Hot,Solo,Corporate,1 day,461,Puri
+Temperate,Cold,Adventure,Solo,1 day,848,Hampi
+Humid,Dry,Luxury,Corporate,3 days,6034,Srinagar
+Oceanic,Rainy,Cultural,Solo,6 days,2431,Srinagar
+Dry,Dry,Religious,Corporate,4 days,2007,Puri
+Humid,Rainy,Religious,Students,6 days,2747,Lucknow
+Oceanic,Hot,Eco-Tourism,Friends,10 days,5001,Pune
+Temperate,Hot,Business,Students,2 weeks,6313,Udaipur
+Mediterranean,Cold,Cultural,Solo,3 days,1226,Rishikesh
+Desert,Dry,Cultural,Couple,2 weeks,8359,Darjeeling
+Polar,Hot,Cultural,Senior Citizens,1 month,16543,Ooty
+Polar,Dry,Luxury,Solo,4 days,6399,Bhubaneswar
+Continental,Dry,Business,Friends,10 days,4969,Amritsar
+Oceanic,Hot,Cultural,Solo,5 days,2048,Nashik
+Tropical,Dry,Leisure,Students,1 week,3747,Ooty
+Polar,Hot,Religious,Students,1 month,13451,Mumbai
+Oceanic,Hot,Adventure,Solo,10 days,8028,Mysore
+Dry,Hot,Luxury,Friends,6 days,12000,Delhi
+Mediterranean,Cold,Business,Solo,6 days,2355,Puri
+Temperate,Hot,Luxury,Senior Citizens,5 days,10991,Shimla
+Polar,Hot,Luxury,Friends,2 weeks,27964,Mahabalipuram
+Continental,Hot,Leisure,Tour Group,6 days,5381,Bhopal
+Humid,Cold,Cultural,Friends,4 days,1954,Thiruvananthapuram
+Oceanic,Hot,Leisure,Corporate,2 days,1198,Thiruvananthapuram
+Oceanic,Dry,Religious,Couple,10 days,5984,Coimbatore
+Arid,Cold,Family,Students,3 weeks,15111,Pune
+Dry,Cold,Business,Solo,3 days,1229,Darjeeling
+Oceanic,Cold,Business,Corporate,6 days,3049,Udaipur
+Dry,Cold,Adventure,Corporate,10 days,9986,Thiruvananthapuram
+Continental,Cold,Business,Corporate,1 month,14963,Bhubaneswar
+Oceanic,Rainy,Leisure,Students,1 month,16159,Agra
+Desert,Rainy,Family,Students,1 month,21551,Kochi
+Tropical,Dry,Leisure,Tour Group,5 days,4473,Puri
+Oceanic,Cold,Budget,Solo,5 days,1998,Agra
+Continental,Cold,Budget,Senior Citizens,2 weeks,7744,Kolkata
+Humid,Cold,Religious,Tour Group,6 days,4537,Manali
+Dry,Cold,Luxury,Friends,2 days,3975,Shimla
+Oceanic,Hot,Adventure,Tour Group,3 days,4475,Delhi
+Arid,Cold,Adventure,Tour Group,1 week,10536,Bhubaneswar
+Arid,Rainy,Business,Senior Citizens,2 days,1051,Shimla
+Dry,Cold,Religious,Friends,2 weeks,6993,Ahmedabad
+Continental,Cold,Cultural,Family,1 month,15034,Pondicherry
+Arid,Cold,Family,Senior Citizens,2 days,1767,Pune
+Humid,Cold,Religious,Students,3 weeks,9402,Pune
+Polar,Rainy,Eco-Tourism,Corporate,4 days,1953,Chennai
+Humid,Rainy,Budget,Family,10 days,5019,Rishikesh
+Continental,Hot,Religious,Couple,1 day,604,Hyderabad
+Humid,Dry,Family,Students,1 week,5034,Udaipur
+Desert,Cold,Leisure,Solo,2 days,993,Munnar
+Tropical,Hot,Adventure,Students,1 month,26987,Srinagar
+Mediterranean,Hot,Solo,Solo,2 days,782,Kochi
+Desert,Cold,Eco-Tourism,Tour Group,3 days,2298,Shillong
+Continental,Rainy,Luxury,Corporate,3 days,5980,Haridwar
+Desert,Rainy,Adventure,Tour Group,2 days,2994,Mount Abu
+Mediterranean,Dry,Eco-Tourism,Corporate,1 day,472,Lucknow
+Temperate,Dry,Business,Couple,3 weeks,12577,Guwahati
+Dry,Dry,Budget,Solo,3 weeks,8397,Kolkata
+Desert,Cold,Cultural,Senior Citizens,2 days,1116,Vijayawada
+Temperate,Dry,Budget,Couple,5 days,3027,Mount Abu
+Desert,Cold,Cultural,Tour Group,5 days,3750,Darjeeling
+Desert,Hot,Adventure,Tour Group,5 days,7520,Chennai
+Tropical,Cold,Eco-Tourism,Friends,4 days,1959,Kochi
+Oceanic,Dry,Family,Family,1 month,23965,Pune
+Arid,Cold,Budget,Solo,3 days,1153,Surat
+Dry,Rainy,Eco-Tourism,Senior Citizens,4 days,2217,Kochi
+Humid,Hot,Cultural,Corporate,6 days,2953,Lucknow
+Desert,Cold,Luxury,Solo,3 weeks,33603,Chandigarh
+Desert,Rainy,Eco-Tourism,Friends,10 days,4999,Pune
+Temperate,Rainy,Solo,Friends,1 day,468,Darjeeling
+Desert,Rainy,Cultural,Corporate,3 days,1469,Kochi
+Continental,Dry,Budget,Tour Group,4 days,3000,Kochi
+Dry,Dry,Religious,Senior Citizens,1 week,3858,Leh
+Oceanic,Dry,Cultural,Corporate,2 days,951,Kochi
+Polar,Hot,Adventure,Friends,5 days,4951,Puri
+Oceanic,Dry,Adventure,Friends,1 month,29983,Mount Abu
+Desert,Hot,Adventure,Senior Citizens,5 days,5450,Kochi
+Desert,Dry,Cultural,Couple,3 days,1807,Ooty
+Tropical,Hot,Cultural,Family,10 days,5017,Agra
+Desert,Dry,Solo,Solo,1 day,434,Gangtok
+Continental,Cold,Luxury,Tour Group,1 day,2978,Kodaikanal
+Humid,Cold,Adventure,Students,4 days,3598,Shillong
+Dry,Rainy,Budget,Senior Citizens,1 month,16523,Amritsar
+Arid,Dry,Eco-Tourism,Senior Citizens,3 days,1619,Munnar
+Temperate,Hot,Cultural,Tour Group,5 days,3758,Darjeeling
+Oceanic,Cold,Family,Students,10 days,7178,Manali
+Humid,Dry,Eco-Tourism,Solo,2 weeks,5626,Leh
+Oceanic,Dry,Family,Senior Citizens,3 days,2643,Srinagar
+Temperate,Cold,Cultural,Friends,10 days,4993,Chennai
+Desert,Rainy,Solo,Corporate,3 weeks,10472,Shimla
+Temperate,Rainy,Religious,Solo,1 week,2774,Hyderabad
+Mediterranean,Hot,Business,Friends,6 days,2971,Manali
+Temperate,Dry,Leisure,Solo,2 weeks,6690,Lucknow
+Arid,Rainy,Luxury,Solo,6 days,9629,Bangalore
+Tropical,Rainy,Leisure,Friends,10 days,5957,Bangalore
+Arid,Dry,Business,Friends,4 days,2047,Nashik
+Polar,Rainy,Business,Solo,2 weeks,5633,Chandigarh
+Tropical,Dry,Religious,Senior Citizens,6 days,3277,Amritsar
+Humid,Dry,Religious,Family,3 weeks,10474,Bangalore
+Polar,Hot,Eco-Tourism,Couple,1 month,17987,Guwahati
+Humid,Dry,Solo,Family,5 days,2487,Ahmedabad
+Continental,Rainy,Family,Students,1 week,5016,Manali
+Arid,Hot,Business,Family,3 days,1536,Mysore
+Arid,Hot,Eco-Tourism,Tour Group,3 days,2265,Bhopal
+Humid,Rainy,Eco-Tourism,Solo,1 month,11953,Kolkata
+Humid,Dry,Eco-Tourism,Senior Citizens,3 weeks,11522,Leh
+Polar,Rainy,Budget,Family,3 days,1458,Haridwar
+Desert,Rainy,Business,Tour Group,1 day,751,Kodaikanal
+Polar,Rainy,Luxury,Corporate,4 days,7961,Haridwar
+Tropical,Cold,Solo,Tour Group,6 days,4536,Goa
+Temperate,Cold,Cultural,Students,3 weeks,9496,Pondicherry
+Dry,Dry,Luxury,Senior Citizens,1 day,2205,Alleppey
+Mediterranean,Cold,Luxury,Senior Citizens,2 weeks,30774,Gangtok
+Mediterranean,Rainy,Business,Couple,10 days,5968,Jaipur
+Arid,Rainy,Budget,Students,2 days,919,Manali
+Desert,Rainy,Business,Solo,2 days,792,Nashik
+Oceanic,Dry,Budget,Family,2 days,992,Lucknow
+Humid,Rainy,Religious,Friends,1 month,14971,Ahmedabad
+Mediterranean,Hot,Eco-Tourism,Senior Citizens,6 days,3321,Srinagar
+Oceanic,Cold,Leisure,Couple,1 day,741,Kolkata
+Desert,Rainy,Business,Senior Citizens,10 days,5471,Rishikesh
+Continental,Rainy,Eco-Tourism,Friends,5 days,2510,Udaipur
+Dry,Hot,Eco-Tourism,Students,3 days,1343,Mahabalipuram
+Dry,Rainy,Cultural,Family,4 days,1991,Varanasi
+Oceanic,Rainy,Eco-Tourism,Solo,2 days,833,Thiruvananthapuram
+Tropical,Cold,Budget,Students,5 days,2228,Mount Abu
+Mediterranean,Cold,Cultural,Couple,3 days,1752,Delhi
+Dry,Cold,Business,Family,2 weeks,7021,Ahmedabad
+Continental,Cold,Solo,Friends,5 days,2519,Chandigarh
+Temperate,Rainy,Adventure,Corporate,3 weeks,21013,Mysore
+Humid,Rainy,Adventure,Corporate,3 weeks,21019,Agra
+Dry,Rainy,Solo,Students,1 month,13509,Udaipur
+Polar,Cold,Family,Family,4 days,3249,Guwahati
+Arid,Cold,Adventure,Family,2 days,2032,Mysore
+Mediterranean,Rainy,Cultural,Tour Group,1 week,5296,Ooty
+Continental,Rainy,Business,Couple,2 weeks,8368,Leh
+Polar,Hot,Family,Students,10 days,7209,Lucknow
+Mediterranean,Dry,Solo,Tour Group,1 month,22521,Kochi
+Oceanic,Rainy,Family,Solo,2 weeks,8983,Srinagar
+Polar,Cold,Family,Friends,3 days,2364,Vijayawada
+Temperate,Dry,Eco-Tourism,Tour Group,1 week,5241,Leh
+Arid,Rainy,Family,Students,3 days,2185,Shimla
+Arid,Cold,Budget,Couple,5 days,3014,Indore
+Arid,Cold,Business,Couple,1 week,4186,Mysore
+Oceanic,Rainy,Cultural,Family,3 weeks,10506,Gangtok
+Temperate,Dry,Eco-Tourism,Students,1 week,3124,Leh
+Polar,Rainy,Solo,Friends,4 days,2015,Indore
+Continental,Hot,Adventure,Couple,5 days,5973,Mumbai
+Temperate,Hot,Luxury,Senior Citizens,1 day,2246,Surat
+Mediterranean,Rainy,Family,Solo,6 days,3828,Kodaikanal
+Dry,Cold,Religious,Senior Citizens,10 days,5536,Kochi
+Dry,Hot,Budget,Couple,4 days,2404,Guwahati
+Humid,Hot,Luxury,Corporate,2 weeks,27992,Hyderabad
+Dry,Cold,Adventure,Corporate,10 days,9954,Lucknow
+Dry,Cold,Family,Family,4 days,3206,Kochi
+Arid,Cold,Family,Couple,2 weeks,13468,Chennai
+Dry,Rainy,Business,Family,1 week,3470,Agra
+Temperate,Cold,Eco-Tourism,Tour Group,1 day,714,Shillong
+Polar,Dry,Religious,Students,3 weeks,9456,Jaisalmer
+Polar,Cold,Solo,Senior Citizens,1 day,586,Shimla
+Dry,Rainy,Luxury,Couple,3 days,7155,Mahabalipuram
+Tropical,Cold,Religious,Friends,3 weeks,10514,Shimla
+Desert,Rainy,Budget,Corporate,2 days,1028,Leh
+Oceanic,Dry,Luxury,Tour Group,3 weeks,62984,Bhubaneswar
+Arid,Rainy,Cultural,Friends,6 days,3015,Udaipur
+Continental,Rainy,Leisure,Solo,3 days,1429,Pune
+Dry,Hot,Business,Family,2 weeks,7040,Jaipur
+Arid,Hot,Eco-Tourism,Students,3 weeks,9486,Manali
+Continental,Rainy,Cultural,Senior Citizens,3 weeks,11535,Puri
+Arid,Rainy,Leisure,Couple,3 weeks,15112,Hampi
+Polar,Rainy,Eco-Tourism,Corporate,5 days,2506,Jaipur
+Arid,Dry,Family,Family,6 days,4835,Goa
+Oceanic,Hot,Family,Family,2 weeks,11190,Munnar
+Continental,Hot,Family,Friends,1 week,5588,Coimbatore
+Arid,Dry,Luxury,Couple,10 days,24040,Jaisalmer
+Oceanic,Hot,Cultural,Couple,1 week,4239,Shimla
+Mediterranean,Dry,Family,Senior Citizens,3 days,2593,Manali
+Tropical,Hot,Eco-Tourism,Couple,4 days,2354,Bhubaneswar
+Desert,Rainy,Luxury,Couple,1 week,16842,Bangalore
+Polar,Cold,Budget,Friends,4 days,2044,Jaipur
+Polar,Rainy,Luxury,Corporate,6 days,12001,Goa
+Continental,Cold,Leisure,Family,1 day,571,Chennai
+Arid,Cold,Leisure,Couple,4 days,2873,Pune
+Mediterranean,Dry,Budget,Solo,2 days,845,Gangtok
+Desert,Cold,Eco-Tourism,Corporate,2 weeks,6983,Alleppey
+Oceanic,Dry,Adventure,Family,10 days,9961,Puri
+Tropical,Cold,Solo,Senior Citizens,5 days,2757,Jaipur
+Oceanic,Cold,Business,Students,2 days,858,Udaipur
+Tropical,Rainy,Religious,Family,1 month,15009,Ooty
+Polar,Cold,Leisure,Friends,3 days,1776,Chandigarh
+Mediterranean,Cold,Solo,Tour Group,10 days,7488,Mahabalipuram
+Humid,Rainy,Religious,Corporate,1 month,15029,Pune
+Temperate,Cold,Budget,Couple,1 week,4184,Mahabalipuram
+Temperate,Dry,Cultural,Family,3 weeks,10482,Chandigarh
+Arid,Dry,Religious,Corporate,4 days,2024,Puri
+Temperate,Cold,Cultural,Corporate,6 days,2978,Udaipur
+Tropical,Hot,Adventure,Tour Group,6 days,9030,Delhi
+Continental,Cold,Religious,Corporate,5 days,2464,Ahmedabad
+Desert,Cold,Solo,Students,3 days,1355,Dehradun
+Continental,Hot,Adventure,Friends,2 weeks,14000,Darjeeling
+Arid,Hot,Luxury,Family,3 days,6040,Chennai
+Arid,Rainy,Cultural,Tour Group,1 week,5256,Munnar
+Polar,Cold,Adventure,Family,1 week,7026,Puri
+Arid,Hot,Family,Friends,1 week,5600,Shimla
+Oceanic,Cold,Adventure,Friends,1 month,30009,Lucknow
+Oceanic,Hot,Leisure,Friends,2 days,1240,Munnar
+Humid,Hot,Family,Tour Group,1 month,35960,Jaipur
+Polar,Cold,Cultural,Students,5 days,2200,Mahabalipuram
+Mediterranean,Dry,Cultural,Tour Group,2 weeks,10462,Srinagar
+Tropical,Rainy,Leisure,Senior Citizens,3 days,1961,Kodaikanal
+Arid,Rainy,Cultural,Students,1 month,13509,Agra
+Humid,Cold,Luxury,Solo,3 days,4807,Shillong
+Humid,Rainy,Business,Senior Citizens,1 week,3809,Mumbai
+Polar,Dry,Adventure,Tour Group,2 weeks,21038,Kolkata
+Tropical,Hot,Business,Tour Group,2 weeks,10464,Nashik
+Polar,Cold,Eco-Tourism,Family,2 weeks,6990,Kolkata
+Continental,Dry,Leisure,Solo,1 month,14449,Agra
+Humid,Dry,Solo,Senior Citizens,3 days,1643,Gangtok
+Tropical,Dry,Eco-Tourism,Family,3 days,1488,Kodaikanal
+Temperate,Dry,Religious,Senior Citizens,10 days,5530,Dehradun
+Humid,Hot,Budget,Tour Group,10 days,7472,Delhi
+Dry,Dry,Adventure,Couple,1 month,36036,Vijayawada
+Continental,Dry,Cultural,Students,1 week,3161,Mount Abu
+Dry,Rainy,Leisure,Senior Citizens,10 days,6579,Jaisalmer
+Temperate,Cold,Adventure,Friends,1 day,1042,Darjeeling
+Continental,Hot,Cultural,Friends,10 days,4963,Jaisalmer
+Continental,Cold,Luxury,Family,3 weeks,42022,Haridwar
+Mediterranean,Cold,Business,Senior Citizens,2 days,1133,Varanasi
+Mediterranean,Rainy,Luxury,Corporate,1 day,1974,Hyderabad
+Dry,Dry,Solo,Solo,2 days,793,Varanasi
+Arid,Rainy,Business,Senior Citizens,3 days,1603,Varanasi
+Dry,Rainy,Adventure,Family,1 month,30010,Srinagar
+Oceanic,Cold,Adventure,Tour Group,1 week,10492,Alleppey
+Dry,Cold,Budget,Tour Group,3 weeks,15712,Nashik
+Arid,Rainy,Business,Couple,1 week,4215,Ahmedabad
+Temperate,Rainy,Solo,Tour Group,4 days,3001,Udaipur
+Arid,Rainy,Religious,Students,6 days,2737,Amritsar
+Continental,Rainy,Luxury,Solo,1 day,1614,Goa
+Arid,Dry,Adventure,Solo,6 days,4805,Shimla
+Mediterranean,Hot,Budget,Couple,2 weeks,8415,Mount Abu
+Desert,Hot,Budget,Corporate,5 days,2476,Thiruvananthapuram
+Polar,Rainy,Eco-Tourism,Solo,4 days,1612,Surat
+Arid,Dry,Budget,Couple,2 days,1185,Srinagar
+Desert,Cold,Solo,Senior Citizens,2 weeks,7732,Chandigarh
+Tropical,Rainy,Business,Solo,2 weeks,5582,Haridwar
+Mediterranean,Rainy,Solo,Senior Citizens,2 weeks,7712,Manali
+Humid,Cold,Family,Solo,3 weeks,13455,Indore
+Humid,Hot,Religious,Family,10 days,4967,Hyderabad
+Oceanic,Rainy,Eco-Tourism,Couple,1 month,17969,Delhi
+Humid,Cold,Leisure,Tour Group,3 weeks,18883,Chandigarh
+Dry,Hot,Family,Corporate,2 weeks,11228,Hyderabad
+Temperate,Cold,Religious,Corporate,1 day,547,Hyderabad
+Temperate,Hot,Family,Corporate,3 days,2400,Kodaikanal
+Continental,Hot,Cultural,Corporate,1 month,14963,Kochi
+Arid,Hot,Adventure,Family,1 week,7004,Surat
+Mediterranean,Rainy,Family,Corporate,3 weeks,16835,Jaipur
+Desert,Cold,Leisure,Corporate,6 days,3584,Lucknow
+Arid,Dry,Adventure,Tour Group,4 days,5953,Puri
+Arid,Hot,Cultural,Senior Citizens,2 weeks,7727,Ooty
+Desert,Rainy,Luxury,Friends,5 days,9966,Coimbatore
+Dry,Dry,Religious,Corporate,1 month,14997,Guwahati
+Oceanic,Cold,Luxury,Friends,1 month,60040,Dehradun
+Dry,Cold,Leisure,Couple,3 weeks,15110,Haridwar
+Oceanic,Dry,Cultural,Friends,4 days,2043,Shillong
+Humid,Hot,Business,Couple,4 days,2390,Coimbatore
+Arid,Dry,Family,Tour Group,2 days,2405,Kolkata
+Humid,Rainy,Family,Senior Citizens,1 month,26415,Amritsar
+Temperate,Rainy,Cultural,Corporate,10 days,5031,Pondicherry
+Desert,Rainy,Budget,Students,10 days,4529,Agra
+Temperate,Hot,Religious,Couple,1 month,17956,Hampi
+Continental,Cold,Eco-Tourism,Friends,3 weeks,10472,Mumbai
+Polar,Dry,Budget,Solo,3 days,1170,Darjeeling
+Dry,Rainy,Budget,Tour Group,1 day,769,Hyderabad
+Polar,Hot,Adventure,Solo,2 weeks,11209,Kodaikanal
+Dry,Hot,Luxury,Solo,1 day,1631,Haridwar
+Arid,Dry,Eco-Tourism,Tour Group,6 days,4502,Srinagar
+Oceanic,Dry,Adventure,Couple,1 day,1223,Haridwar
+Oceanic,Dry,Adventure,Students,10 days,8960,Vijayawada
+Polar,Hot,Religious,Friends,6 days,3002,Kochi
+Mediterranean,Dry,Solo,Senior Citizens,4 days,2247,Dehradun
+Mediterranean,Dry,Eco-Tourism,Family,6 days,2962,Amritsar
+Continental,Rainy,Business,Students,2 days,922,Mahabalipuram
+Humid,Dry,Family,Senior Citizens,1 month,26354,Mount Abu
+Dry,Rainy,Family,Family,3 weeks,16780,Hyderabad
+Oceanic,Hot,Religious,Tour Group,1 week,5238,Amritsar
+Tropical,Cold,Family,Solo,1 week,4502,Agra
+Desert,Dry,Luxury,Students,1 day,1763,Srinagar
+Continental,Cold,Leisure,Tour Group,5 days,4535,Rishikesh
+Tropical,Cold,Eco-Tourism,Friends,4 days,2033,Ahmedabad
+Mediterranean,Hot,Cultural,Corporate,2 days,1010,Indore
+Oceanic,Rainy,Cultural,Family,10 days,5031,Mahabalipuram
+Temperate,Dry,Adventure,Senior Citizens,3 days,3250,Alleppey
+Humid,Dry,Luxury,Senior Citizens,4 days,8781,Dehradun
+Desert,Dry,Eco-Tourism,Family,10 days,5044,Shimla
+Humid,Cold,Family,Couple,2 days,1874,Udaipur
+Mediterranean,Rainy,Budget,Tour Group,3 weeks,15735,Alleppey
+Temperate,Rainy,Cultural,Friends,1 week,3474,Haridwar
+Tropical,Rainy,Solo,Friends,4 days,1969,Bhopal
+Temperate,Rainy,Religious,Solo,2 weeks,5576,Guwahati
+Arid,Hot,Solo,Solo,1 month,12044,Haridwar
+Arid,Rainy,Business,Senior Citizens,10 days,5458,Mahabalipuram
+Desert,Hot,Family,Family,10 days,7964,Ahmedabad
+Desert,Cold,Family,Corporate,1 week,5579,Munnar
+Continental,Dry,Solo,Solo,5 days,2041,Amritsar
+Dry,Hot,Adventure,Friends,2 weeks,14025,Goa
+Temperate,Hot,Solo,Solo,2 days,791,Agra
+Dry,Dry,Adventure,Couple,1 day,1221,Gangtok
+Desert,Cold,Family,Senior Citizens,2 days,1763,Srinagar
+Dry,Dry,Eco-Tourism,Family,1 day,472,Pune
+Dry,Rainy,Solo,Solo,1 day,386,Haridwar
+Desert,Hot,Leisure,Solo,10 days,4807,Darjeeling
+Continental,Cold,Cultural,Family,1 week,3540,Hyderabad
+Tropical,Dry,Leisure,Tour Group,10 days,9037,Dehradun
+Polar,Rainy,Solo,Solo,1 day,402,Manali
+Arid,Cold,Religious,Solo,2 days,764,Dehradun
+Desert,Hot,Cultural,Tour Group,5 days,3793,Nashik
+Polar,Rainy,Religious,Solo,5 days,1952,Haridwar
+Arid,Cold,Luxury,Senior Citizens,10 days,22001,Ahmedabad
+Temperate,Hot,Solo,Family,3 days,1488,Bhubaneswar
+Dry,Hot,Adventure,Solo,1 month,24020,Chandigarh
+Continental,Dry,Budget,Solo,4 days,1614,Mysore
+Mediterranean,Hot,Religious,Senior Citizens,3 days,1653,Hampi
+Continental,Cold,Cultural,Friends,2 days,967,Darjeeling
+Humid,Dry,Leisure,Tour Group,3 weeks,18910,Hampi
+Desert,Rainy,Family,Senior Citizens,3 days,2677,Mysore
+Polar,Rainy,Leisure,Friends,6 days,3571,Thiruvananthapuram
+Polar,Rainy,Business,Family,3 weeks,10539,Kochi
+Temperate,Cold,Business,Corporate,5 days,2477,Bhopal
+Temperate,Cold,Adventure,Solo,3 days,2391,Bhopal
+Temperate,Dry,Cultural,Students,5 days,2241,Bhubaneswar
+Polar,Hot,Cultural,Tour Group,3 days,2218,Pune
+Tropical,Hot,Cultural,Family,4 days,2007,Srinagar
+Arid,Cold,Cultural,Family,5 days,2522,Haridwar
+Mediterranean,Cold,Religious,Couple,10 days,6026,Jaisalmer
+Arid,Hot,Luxury,Family,5 days,10024,Goa
+Humid,Rainy,Religious,Solo,1 week,2788,Guwahati
+Dry,Dry,Eco-Tourism,Friends,3 days,1483,Kochi
+Humid,Rainy,Family,Corporate,10 days,8019,Dehradun
+Arid,Dry,Budget,Students,4 days,1837,Lucknow
+Arid,Dry,Business,Students,1 day,403,Ahmedabad
+Desert,Cold,Leisure,Friends,3 days,1790,Gangtok
+Temperate,Rainy,Luxury,Corporate,4 days,8005,Mysore
+Desert,Dry,Solo,Senior Citizens,3 days,1652,Chandigarh
+Oceanic,Cold,Eco-Tourism,Solo,4 days,1582,Nashik
+Continental,Hot,Family,Students,1 week,5022,Pondicherry
+Humid,Hot,Cultural,Friends,1 day,475,Gangtok
+Mediterranean,Dry,Religious,Couple,3 weeks,12594,Agra
+Dry,Dry,Cultural,Corporate,1 day,540,Dehradun
+Continental,Cold,Budget,Senior Citizens,10 days,5546,Vijayawada
+Mediterranean,Hot,Leisure,Couple,10 days,7233,Hyderabad
+Desert,Hot,Leisure,Senior Citizens,10 days,6563,Jaipur
+Temperate,Rainy,Religious,Students,4 days,1781,Pondicherry
+Continental,Rainy,Budget,Couple,10 days,6021,Jaisalmer
+Tropical,Dry,Business,Corporate,1 month,15047,Mysore
+Temperate,Cold,Budget,Friends,1 month,14982,Jaisalmer
+Arid,Cold,Solo,Couple,1 week,4155,Puri
+Arid,Cold,Business,Senior Citizens,1 day,592,Leh
+Polar,Hot,Budget,Friends,6 days,3000,Pondicherry
+Humid,Cold,Budget,Solo,2 days,817,Amritsar
+Dry,Dry,Family,Solo,5 days,3193,Puri
+Continental,Hot,Luxury,Friends,1 day,2021,Haridwar
+Humid,Hot,Luxury,Family,2 days,3984,Shillong
+Oceanic,Dry,Solo,Couple,6 days,3636,Pondicherry
+Humid,Rainy,Solo,Senior Citizens,1 week,3879,Kodaikanal
+Desert,Rainy,Business,Family,3 weeks,10546,Kodaikanal
+Mediterranean,Dry,Adventure,Corporate,5 days,5025,Udaipur
+Continental,Dry,Family,Couple,2 weeks,13414,Udaipur
+Continental,Cold,Business,Friends,2 weeks,6963,Amritsar
+Arid,Rainy,Solo,Friends,2 weeks,6961,Bhopal
+Tropical,Hot,Solo,Family,1 month,15007,Bangalore
+Desert,Cold,Religious,Senior Citizens,1 month,16463,Pondicherry
+Temperate,Dry,Religious,Tour Group,10 days,7468,Guwahati
+Desert,Cold,Religious,Solo,10 days,4032,Pune
+Oceanic,Dry,Cultural,Corporate,1 week,3461,Delhi
+Polar,Cold,Luxury,Tour Group,1 month,90017,Indore
+Desert,Cold,Business,Family,1 month,15028,Srinagar
+Desert,Cold,Cultural,Solo,10 days,3989,Indore
+Oceanic,Hot,Cultural,Tour Group,1 month,22459,Agra
+Temperate,Rainy,Adventure,Students,4 days,3615,Surat
+Tropical,Hot,Cultural,Students,1 day,472,Shillong
+Continental,Cold,Eco-Tourism,Friends,4 days,2008,Chennai
+Temperate,Dry,Adventure,Senior Citizens,4 days,4426,Kolkata
+Oceanic,Cold,Religious,Family,1 day,475,Lucknow
+Continental,Rainy,Business,Students,3 days,1370,Amritsar
+Oceanic,Dry,Leisure,Couple,1 month,21552,Leh
+Oceanic,Rainy,Eco-Tourism,Senior Citizens,2 days,1065,Jaisalmer
+Humid,Cold,Adventure,Friends,6 days,5991,Pondicherry
+Humid,Dry,Adventure,Friends,5 days,5004,Leh
+Arid,Dry,Budget,Corporate,1 week,3531,Mahabalipuram
+Mediterranean,Cold,Family,Solo,5 days,3223,Haridwar
+Desert,Hot,Leisure,Corporate,10 days,6016,Shimla
+Polar,Dry,Eco-Tourism,Senior Citizens,1 month,16500,Dehradun
+Mediterranean,Cold,Solo,Couple,2 weeks,8396,Mysore
+Temperate,Hot,Solo,Family,3 days,1521,Kochi
+Humid,Rainy,Cultural,Senior Citizens,3 days,1632,Gangtok
+Polar,Cold,Luxury,Friends,2 days,4040,Ahmedabad
+Desert,Cold,Budget,Students,6 days,2691,Jaisalmer
+Arid,Dry,Eco-Tourism,Friends,3 weeks,10513,Kochi
+Humid,Dry,Budget,Family,1 month,15012,Manali
+Tropical,Cold,Luxury,Students,10 days,17996,Mumbai
+Polar,Hot,Luxury,Solo,5 days,8012,Jaisalmer
+Continental,Dry,Cultural,Couple,1 month,17951,Delhi
+Desert,Rainy,Budget,Corporate,1 week,3503,Munnar
+Humid,Dry,Adventure,Senior Citizens,1 month,33021,Ahmedabad
+Tropical,Cold,Budget,Students,2 days,871,Pune
+Desert,Dry,Solo,Corporate,4 days,2042,Nashik
+Humid,Cold,Luxury,Students,4 days,7158,Pondicherry
+Mediterranean,Dry,Eco-Tourism,Corporate,1 week,3456,Chennai
+Oceanic,Rainy,Eco-Tourism,Couple,1 month,17976,Hyderabad
+Mediterranean,Hot,Cultural,Corporate,2 weeks,6951,Coimbatore
+Desert,Cold,Business,Solo,6 days,2445,Hyderabad
+Temperate,Dry,Business,Students,1 day,439,Pondicherry
+Polar,Rainy,Cultural,Couple,6 days,3571,Coimbatore
+Polar,Rainy,Budget,Couple,3 days,1831,Bhopal
+Desert,Rainy,Eco-Tourism,Students,4 days,1773,Udaipur
+Temperate,Hot,Adventure,Friends,2 weeks,14002,Mumbai
+Temperate,Dry,Religious,Tour Group,3 weeks,15715,Lucknow
+Polar,Rainy,Religious,Solo,1 week,2824,Agra
+Continental,Cold,Religious,Corporate,1 week,3537,Haridwar
+Humid,Hot,Solo,Solo,1 day,382,Agra
+Polar,Cold,Family,Couple,10 days,9624,Bhopal
+Temperate,Hot,Luxury,Senior Citizens,5 days,11049,Indore
+Desert,Dry,Budget,Couple,2 weeks,8412,Munnar
+Polar,Cold,Business,Senior Citizens,2 weeks,7682,Kolkata
+Temperate,Hot,Eco-Tourism,Students,1 day,423,Surat
+Mediterranean,Dry,Solo,Corporate,2 weeks,6958,Puri
+Continental,Hot,Budget,Solo,1 day,437,Mount Abu
+Arid,Dry,Business,Students,10 days,4466,Mumbai
+Temperate,Rainy,Solo,Corporate,1 week,3455,Kochi
+Humid,Rainy,Adventure,Senior Citizens,1 week,7748,Chandigarh
+Arid,Cold,Cultural,Tour Group,1 month,22460,Puri
+Continental,Cold,Cultural,Family,10 days,5040,Delhi
+Polar,Cold,Adventure,Solo,4 days,3193,Bhubaneswar
+Temperate,Hot,Religious,Students,10 days,4466,Srinagar
+Desert,Cold,Adventure,Corporate,2 days,2039,Bangalore
+Desert,Dry,Business,Family,6 days,2998,Shillong
+Polar,Rainy,Eco-Tourism,Corporate,4 days,1968,Lucknow
+Temperate,Dry,Adventure,Tour Group,3 days,4482,Shimla
+Tropical,Rainy,Religious,Family,3 days,1499,Surat
+Tropical,Cold,Luxury,Corporate,2 days,4043,Haridwar
+Mediterranean,Hot,Luxury,Corporate,1 month,59991,Hyderabad
+Mediterranean,Dry,Leisure,Solo,3 days,1474,Hyderabad
+Desert,Dry,Cultural,Friends,1 day,507,Kolkata
+Continental,Hot,Family,Friends,4 days,3165,Udaipur
+Arid,Cold,Adventure,Couple,3 days,3576,Haridwar
+Dry,Dry,Budget,Tour Group,1 month,22466,Ooty
+Desert,Cold,Leisure,Couple,3 days,2192,Kolkata
+Dry,Dry,Family,Senior Citizens,1 month,26429,Chandigarh
+Temperate,Cold,Solo,Students,6 days,2655,Jaisalmer
+Oceanic,Cold,Business,Tour Group,1 week,5273,Leh
+Continental,Cold,Luxury,Students,6 days,10780,Shillong
+Temperate,Rainy,Family,Students,4 days,2874,Bhubaneswar
+Desert,Hot,Solo,Family,5 days,2523,Dehradun
+Oceanic,Dry,Family,Students,1 week,5053,Srinagar
+Oceanic,Hot,Family,Couple,3 weeks,20172,Bhopal
+Continental,Hot,Solo,Corporate,10 days,5048,Rishikesh
+Polar,Dry,Cultural,Couple,5 days,3003,Ooty
+Temperate,Dry,Solo,Tour Group,3 weeks,15707,Hampi
+Mediterranean,Rainy,Leisure,Family,1 month,18009,Surat
+Dry,Rainy,Business,Students,10 days,4549,Varanasi
+Arid,Hot,Budget,Students,2 weeks,6336,Udaipur
+Tropical,Rainy,Luxury,Corporate,10 days,20010,Mount Abu
+Temperate,Cold,Leisure,Students,1 month,16226,Bhubaneswar
+Tropical,Dry,Eco-Tourism,Tour Group,3 weeks,15792,Leh
+Mediterranean,Cold,Budget,Solo,5 days,2032,Kolkata
+Polar,Dry,Solo,Students,5 days,2212,Bangalore
+Arid,Rainy,Eco-Tourism,Corporate,10 days,4988,Kodaikanal
+Polar,Cold,Luxury,Tour Group,2 days,6014,Surat
+Arid,Cold,Family,Senior Citizens,6 days,5323,Bhubaneswar
+Oceanic,Rainy,Religious,Students,3 days,1371,Thiruvananthapuram
+Mediterranean,Dry,Adventure,Students,5 days,4531,Coimbatore
+Dry,Hot,Solo,Friends,1 week,3461,Varanasi
+Tropical,Hot,Solo,Family,2 days,999,Amritsar
+Arid,Hot,Eco-Tourism,Tour Group,5 days,3709,Rishikesh
+Desert,Dry,Adventure,Solo,3 weeks,16789,Indore
+Temperate,Cold,Eco-Tourism,Couple,3 weeks,12592,Thiruvananthapuram
+Oceanic,Hot,Luxury,Solo,3 days,4808,Shimla
+Desert,Rainy,Eco-Tourism,Solo,1 month,11983,Chandigarh
+Humid,Rainy,Adventure,Friends,2 weeks,14009,Nashik
+Arid,Rainy,Luxury,Corporate,1 day,1960,Varanasi
+Dry,Rainy,Solo,Tour Group,1 month,22523,Lucknow
+Temperate,Cold,Leisure,Tour Group,6 days,5351,Mumbai
+Tropical,Dry,Religious,Corporate,2 weeks,7040,Darjeeling
+Continental,Cold,Eco-Tourism,Students,2 weeks,6315,Leh
+Oceanic,Dry,Leisure,Corporate,1 month,18045,Nashik
+Continental,Rainy,Budget,Students,6 days,2689,Mahabalipuram
+Dry,Cold,Budget,Senior Citizens,3 weeks,11532,Coimbatore
+Continental,Hot,Religious,Solo,2 weeks,5580,Mount Abu
+Tropical,Dry,Family,Corporate,4 days,3151,Kolkata
+Oceanic,Rainy,Leisure,Friends,1 month,17972,Goa
+Tropical,Dry,Budget,Students,4 days,1777,Munnar
+Continental,Rainy,Luxury,Couple,3 weeks,50437,Udaipur
+Oceanic,Rainy,Cultural,Corporate,2 days,992,Bhopal
+Temperate,Cold,Luxury,Students,3 weeks,37786,Bangalore
+Humid,Rainy,Eco-Tourism,Friends,5 days,2508,Thiruvananthapuram
+Humid,Dry,Family,Couple,1 month,28760,Delhi
+Tropical,Rainy,Business,Solo,2 weeks,5574,Puri
+Continental,Hot,Adventure,Solo,6 days,4761,Coimbatore
+Temperate,Dry,Solo,Couple,5 days,2998,Bhubaneswar
+Desert,Cold,Leisure,Students,6 days,3282,Gangtok
+Continental,Hot,Budget,Corporate,5 days,2472,Lucknow
+Humid,Dry,Cultural,Solo,1 day,361,Mahabalipuram
+Tropical,Dry,Adventure,Senior Citizens,10 days,11022,Vijayawada
+Dry,Hot,Family,Senior Citizens,6 days,5268,Mysore
+Oceanic,Cold,Business,Family,4 days,2003,Jaipur
+Humid,Dry,Budget,Friends,2 weeks,6958,Munnar
+Dry,Cold,Family,Solo,1 month,19203,Delhi
+Polar,Cold,Family,Tour Group,2 weeks,16843,Hampi
+Temperate,Hot,Budget,Friends,6 days,2952,Hampi
+Desert,Hot,Religious,Tour Group,1 month,22549,Ooty
+Arid,Dry,Business,Corporate,3 days,1468,Varanasi
+Continental,Cold,Religious,Corporate,2 days,981,Kodaikanal
+Oceanic,Dry,Leisure,Family,1 week,4241,Surat
+Continental,Cold,Adventure,Solo,1 day,757,Alleppey
+Humid,Hot,Luxury,Family,2 days,4048,Ahmedabad
+Oceanic,Dry,Leisure,Family,4 days,2383,Hampi
+Temperate,Hot,Leisure,Students,2 days,1078,Darjeeling
+Arid,Hot,Solo,Students,1 week,3143,Munnar
+Oceanic,Cold,Leisure,Tour Group,2 weeks,12587,Puri
+Arid,Rainy,Eco-Tourism,Family,4 days,2022,Munnar
+Tropical,Rainy,Luxury,Family,6 days,11999,Manali
+Desert,Dry,Leisure,Corporate,1 day,566,Darjeeling
+Arid,Cold,Luxury,Family,10 days,19952,Indore
+Arid,Cold,Solo,Senior Citizens,3 weeks,11539,Indore
+Dry,Cold,Adventure,Students,1 month,26954,Nashik
+Humid,Rainy,Business,Couple,1 month,17952,Surat
+Polar,Cold,Solo,Solo,3 days,1171,Bhopal
+Tropical,Hot,Budget,Senior Citizens,1 week,3850,Amritsar
+Oceanic,Rainy,Eco-Tourism,Friends,2 weeks,7031,Varanasi
+Temperate,Cold,Solo,Solo,1 day,446,Bhubaneswar
+Tropical,Rainy,Solo,Senior Citizens,3 days,1689,Darjeeling
+Mediterranean,Hot,Luxury,Couple,1 week,16783,Gangtok
+Temperate,Cold,Cultural,Friends,5 days,2543,Pondicherry
+Polar,Rainy,Religious,Corporate,1 day,520,Kolkata
+Arid,Rainy,Leisure,Solo,10 days,4782,Alleppey
+Desert,Cold,Family,Senior Citizens,1 week,6134,Surat
+Continental,Cold,Leisure,Senior Citizens,3 weeks,13856,Kochi
+Oceanic,Rainy,Religious,Solo,1 month,11999,Kochi
+Oceanic,Cold,Cultural,Family,6 days,3037,Chennai
+Dry,Cold,Eco-Tourism,Students,1 week,3119,Surat
+Polar,Hot,Cultural,Corporate,10 days,4959,Mysore
+Mediterranean,Cold,Family,Tour Group,5 days,6007,Surat
+Humid,Hot,Adventure,Friends,5 days,4993,Alleppey
+Desert,Hot,Budget,Students,2 days,929,Dehradun
+Arid,Dry,Religious,Corporate,4 days,1954,Vijayawada
+Mediterranean,Cold,Cultural,Friends,1 day,520,Amritsar
+Polar,Rainy,Cultural,Solo,5 days,2019,Manali
+Tropical,Dry,Business,Tour Group,3 weeks,15734,Coimbatore
+Oceanic,Rainy,Solo,Couple,5 days,3033,Indore
+Desert,Rainy,Adventure,Solo,1 week,5592,Goa
+Temperate,Rainy,Eco-Tourism,Couple,2 weeks,8386,Indore
+Oceanic,Rainy,Eco-Tourism,Corporate,5 days,2492,Bangalore
+Dry,Rainy,Business,Friends,6 days,3023,Leh
+Polar,Rainy,Religious,Solo,3 days,1241,Hampi
+Dry,Dry,Business,Senior Citizens,3 days,1672,Mount Abu
+Humid,Cold,Eco-Tourism,Senior Citizens,3 weeks,11590,Goa
+Temperate,Cold,Budget,Friends,2 days,1012,Srinagar
+Dry,Cold,Budget,Friends,10 days,5001,Bhopal
+Temperate,Cold,Leisure,Senior Citizens,1 week,4571,Indore
+Mediterranean,Rainy,Business,Friends,4 days,2015,Delhi
+Mediterranean,Cold,Business,Corporate,5 days,2523,Mysore
+Humid,Hot,Cultural,Students,3 days,1301,Jaipur
+Desert,Hot,Business,Students,2 weeks,6315,Udaipur
+Temperate,Hot,Eco-Tourism,Solo,1 month,11981,Chennai
+Tropical,Dry,Business,Corporate,10 days,4977,Bhubaneswar
+Tropical,Dry,Business,Students,1 day,458,Rishikesh
+Tropical,Dry,Leisure,Senior Citizens,1 month,19754,Bhubaneswar
+Arid,Rainy,Adventure,Solo,1 month,24019,Vijayawada
+Polar,Dry,Religious,Senior Citizens,3 weeks,11576,Hampi
+Mediterranean,Rainy,Luxury,Couple,6 days,14429,Agra
+Arid,Hot,Adventure,Tour Group,1 month,45002,Munnar
+Dry,Cold,Business,Students,3 days,1323,Amritsar
+Oceanic,Cold,Family,Solo,2 weeks,8937,Coimbatore
+Continental,Dry,Leisure,Family,10 days,5986,Thiruvananthapuram
+Humid,Hot,Solo,Students,1 day,492,Leh
+Continental,Dry,Budget,Tour Group,5 days,3733,Hampi
+Humid,Hot,Leisure,Family,1 day,585,Rishikesh
+Continental,Rainy,Cultural,Couple,2 days,1150,Munnar
+Continental,Hot,Cultural,Couple,1 month,17954,Mumbai
+Mediterranean,Dry,Leisure,Friends,1 week,4158,Indore
+Oceanic,Cold,Eco-Tourism,Senior Citizens,3 weeks,11556,Jaisalmer
+Humid,Cold,Business,Couple,3 weeks,12557,Indore
+Tropical,Dry,Cultural,Corporate,3 weeks,10496,Hampi
+Polar,Dry,Cultural,Tour Group,3 days,2288,Darjeeling
+Oceanic,Rainy,Budget,Friends,1 week,3493,Bangalore
+Dry,Dry,Business,Corporate,5 days,2546,Leh
+Continental,Cold,Business,Senior Citizens,2 weeks,7670,Vijayawada
+Mediterranean,Dry,Eco-Tourism,Tour Group,3 days,2250,Ooty
+Polar,Rainy,Leisure,Corporate,4 days,2421,Mysore
+Oceanic,Dry,Adventure,Solo,3 weeks,16760,Haridwar
+Mediterranean,Rainy,Cultural,Couple,2 days,1156,Hampi
+Desert,Cold,Business,Solo,3 weeks,8414,Mount Abu
+Continental,Cold,Cultural,Couple,1 day,555,Thiruvananthapuram
+Arid,Hot,Adventure,Senior Citizens,2 days,2249,Dehradun
+Temperate,Hot,Family,Students,3 weeks,15135,Ooty
+Continental,Dry,Family,Couple,3 weeks,20142,Kodaikanal
+Temperate,Rainy,Solo,Friends,3 weeks,10504,Mumbai
+Desert,Dry,Budget,Friends,5 days,2520,Rishikesh
+Polar,Rainy,Family,Family,1 month,24021,Lucknow
+Oceanic,Hot,Religious,Friends,5 days,2450,Gangtok
+Arid,Hot,Eco-Tourism,Corporate,6 days,3028,Rishikesh
+Mediterranean,Cold,Religious,Tour Group,2 days,1498,Mount Abu
+Humid,Rainy,Eco-Tourism,Couple,1 week,4242,Surat
+Desert,Rainy,Budget,Friends,1 week,3502,Vijayawada
+Desert,Dry,Cultural,Friends,10 days,4984,Jaipur
+Polar,Cold,Budget,Students,4 days,1801,Shimla
+Arid,Hot,Budget,Solo,10 days,3958,Jaisalmer
+Desert,Dry,Solo,Corporate,1 month,14995,Surat
+Humid,Dry,Leisure,Students,1 month,16237,Coimbatore
+Polar,Rainy,Business,Corporate,1 week,3549,Mahabalipuram
+Oceanic,Hot,Business,Senior Citizens,5 days,2777,Mumbai
+Humid,Rainy,Cultural,Solo,1 week,2778,Gangtok
+Arid,Rainy,Cultural,Students,1 week,3105,Pune
+Arid,Cold,Eco-Tourism,Couple,1 day,613,Kolkata
+Mediterranean,Hot,Leisure,Tour Group,6 days,5391,Mysore
+Humid,Hot,Cultural,Solo,5 days,1991,Ooty
+Tropical,Rainy,Eco-Tourism,Solo,5 days,1963,Chennai
+Arid,Hot,Leisure,Family,2 weeks,8411,Gangtok
+Tropical,Dry,Budget,Students,10 days,4510,Pune
+Arid,Hot,Leisure,Students,3 days,1621,Srinagar
+Polar,Dry,Eco-Tourism,Senior Citizens,1 month,16459,Dehradun
+Dry,Cold,Luxury,Senior Citizens,10 days,21980,Kochi
+Dry,Dry,Family,Students,2 weeks,10102,Hyderabad
+Tropical,Hot,Business,Solo,2 days,824,Alleppey
+Tropical,Dry,Adventure,Corporate,6 days,5951,Jaipur
+Oceanic,Dry,Eco-Tourism,Students,1 day,446,Munnar
+Oceanic,Dry,Family,Solo,1 month,19180,Bangalore
+Polar,Cold,Family,Solo,10 days,6427,Agra
+Continental,Rainy,Luxury,Senior Citizens,2 days,4437,Munnar
+Humid,Rainy,Luxury,Friends,10 days,20047,Amritsar
+Humid,Dry,Budget,Tour Group,10 days,7474,Nashik
+Temperate,Hot,Leisure,Students,2 days,1058,Munnar
+Polar,Dry,Leisure,Tour Group,1 day,927,Hampi
+Humid,Dry,Luxury,Corporate,1 day,1986,Kochi
+Mediterranean,Hot,Family,Students,2 days,1421,Munnar
+Oceanic,Hot,Solo,Couple,6 days,3568,Munnar
+Continental,Rainy,Solo,Friends,5 days,2470,Ooty
+Tropical,Rainy,Leisure,Friends,1 month,18003,Nashik
+Oceanic,Rainy,Eco-Tourism,Corporate,1 week,3467,Mahabalipuram
+Desert,Rainy,Family,Solo,2 weeks,8999,Goa
+Humid,Dry,Religious,Senior Citizens,6 days,3274,Guwahati
+Temperate,Hot,Luxury,Couple,3 days,7243,Coimbatore

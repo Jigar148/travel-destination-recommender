@@ -1,0 +1,109 @@
+DESTINATION,HOTEL_TYPE,STARS,PRICE_PER_NIGHT,ROOM_TYPE
+Goa,Luxury Hotel,3,225,Standard Room
+Manali,Heritage Hotel,4,167,Suite
+Darjeeling,Luxury Hotel,3,115,Dormitory
+Leh-Ladakh,Luxury Hotel,3,88,Standard Room
+Andaman and Nicobar Islands,Heritage Hotel,3,69,Cottage
+Coorg,Boutique Stay,2,273,Standard Room
+Shimla,Budget Hotel,5,31,Deluxe Room
+Udaipur,Resort,2,140,Standard Room
+Rishikesh,Luxury Hotel,3,90,Dormitory
+Munnar,Boutique Stay,4,160,Suite
+Jaipur,Boutique Stay,5,234,Dormitory
+Ooty,Luxury Hotel,2,250,Suite
+Agra,Resort,5,143,Suite
+Varanasi,Boutique Stay,4,295,Cottage
+Mysore,Boutique Stay,5,124,Standard Room
+Hampi,Boutique Stay,3,70,Dormitory
+Kodaikanal,Heritage Hotel,2,193,Suite
+Pondicherry,Heritage Hotel,3,245,Deluxe Room
+Jaisalmer,Luxury Hotel,2,255,Suite
+Alleppey,Boutique Stay,5,222,Deluxe Room
+Kanyakumari,Budget Hotel,3,253,Standard Room
+Kovalam,Luxury Hotel,5,122,Suite
+Khajuraho,Resort,2,190,Deluxe Room
+Ranthambore,Luxury Hotel,2,190,Dormitory
+Kaziranga National Park,Boutique Stay,3,201,Suite
+Sundarbans,Budget Hotel,5,69,Standard Room
+Shillong,Boutique Stay,4,189,Standard Room
+Cherrapunji,Heritage Hotel,3,243,Suite
+Tawang,Heritage Hotel,3,166,Dormitory
+Spiti Valley,Resort,2,66,Deluxe Room
+Mount Abu,Luxury Hotel,2,41,Dormitory
+Mahabalipuram,Luxury Hotel,2,217,Dormitory
+Chikmagalur,Heritage Hotel,2,150,Standard Room
+Gokarna,Heritage Hotel,5,92,Cottage
+Bodh Gaya,Heritage Hotel,2,39,Deluxe Room
+Rann of Kutch,Resort,2,119,Suite
+Aurangabad,Budget Hotel,4,51,Suite
+Lucknow,Resort,3,203,Dormitory
+Patna,Resort,3,74,Cottage
+Chandigarh,Luxury Hotel,2,117,Suite
+Dehradun,Resort,5,148,Standard Room
+Haridwar,Heritage Hotel,5,212,Dormitory
+Nainital,Boutique Stay,3,282,Deluxe Room
+Mussoorie,Budget Hotel,3,174,Cottage
+Lonavala,Heritage Hotel,5,238,Suite
+Mahabaleshwar,Budget Hotel,4,69,Cottage
+Panchgani,Budget Hotel,3,228,Suite
+Alibaug,Budget Hotel,5,175,Deluxe Room
+Kolhapur,Budget Hotel,2,130,Dormitory
+Nashik,Heritage Hotel,5,141,Deluxe Room
+Shirdi,Resort,2,87,Suite
+Nagpur,Luxury Hotel,4,86,Dormitory
+Bhimashankar,Boutique Stay,3,80,Cottage
+Ajanta and Ellora Caves,Budget Hotel,2,269,Dormitory
+Tirupati,Budget Hotel,2,290,Cottage
+Visakhapatnam,Luxury Hotel,5,159,Deluxe Room
+Araku Valley,Boutique Stay,2,96,Deluxe Room
+Vijayawada,Boutique Stay,3,92,Standard Room
+Hyderabad,Boutique Stay,5,34,Cottage
+Warangal,Resort,4,253,Standard Room
+Chennai,Resort,3,76,Suite
+Kanchipuram,Boutique Stay,5,248,Deluxe Room
+Madurai,Resort,2,294,Suite
+Rameswaram,Heritage Hotel,3,248,Deluxe Room
+Thanjavur,Resort,3,140,Suite
+Kochi,Resort,3,95,Cottage
+Thekkady,Resort,5,205,Cottage
+Kumarakom,Luxury Hotel,5,163,Cottage
+Wayanad,Resort,3,83,Suite
+Bekal,Boutique Stay,5,60,Cottage
+Thrissur,Boutique Stay,4,64,Suite
+Kozhikode,Heritage Hotel,5,72,Dormitory
+Kalpetta,Boutique Stay,3,79,Standard Room
+Guruvayur,Luxury Hotel,3,230,Suite
+Trivandrum,Heritage Hotel,4,243,Deluxe Room
+Yelagiri,Heritage Hotel,3,94,Suite
+Kolli Hills,Heritage Hotel,2,293,Dormitory
+Kotagiri,Luxury Hotel,2,45,Deluxe Room
+Valparai,Luxury Hotel,4,89,Cottage
+Coonoor,Resort,2,186,Suite
+Hampi,Budget Hotel,2,83,Deluxe Room
+Badami,Budget Hotel,4,132,Cottage
+Aihole,Boutique Stay,5,97,Suite
+Pattadakal,Luxury Hotel,4,182,Cottage
+Bijapur,Boutique Stay,4,91,Deluxe Room
+Hospet,Budget Hotel,4,242,Deluxe Room
+Belur,Boutique Stay,4,134,Dormitory
+Halebidu,Resort,4,75,Standard Room
+Shravanabelagola,Resort,3,174,Dormitory
+Kabini,Luxury Hotel,2,261,Cottage
+Bandipur,Budget Hotel,4,176,Standard Room
+Nagarhole,Budget Hotel,5,174,Cottage
+Jog Falls,Resort,2,297,Standard Room
+Dandeli,Resort,5,279,Suite
+Karwar,Luxury Hotel,2,91,Standard Room
+Murudeshwar,Luxury Hotel,4,162,Dormitory
+Gandikota,Luxury Hotel,3,277,Standard Room
+Horsley Hills,Luxury Hotel,4,80,Suite
+Lepakshi,Luxury Hotel,2,189,Cottage
+Ahobilam,Resort,2,162,Standard Room
+Srisailam,Budget Hotel,3,260,Standard Room
+Mantralayam,Budget Hotel,5,210,Dormitory
+Papikondalu,Budget Hotel,3,299,Dormitory
+Kaleshwaram,Budget Hotel,5,229,Suite
+Basar,Heritage Hotel,4,148,Deluxe Room
+Medak,Budget Hotel,3,53,Cottage
+Bhadrachalam,Heritage Hotel,4,237,Suite
+Nelakondapalli,Luxury Hotel,4,34,Suite
